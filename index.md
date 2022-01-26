@@ -1,4 +1,6 @@
-## Welcome to the KelPup Lightweight Linux Distribution</b>
+## Welcome to the KelPup Lightweight Linux Distribution
+
+
 
 ### Mission Statement
 
