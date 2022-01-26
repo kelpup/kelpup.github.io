@@ -1,4 +1,4 @@
-[Wiki](index2.md)
+[Wiki](wiki.md)
 ---
 ## Welcome to the KelPup Lightweight Linux Distribution
 
