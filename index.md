@@ -16,7 +16,7 @@ Links
 The goal of this project is to create a simple, easy to use linux distribution with the hopes that it will be education to underprivileged computer science students. We would like for the distribution to be accessable via a flashdrive, and for it to run on older, slower machines. 
 
 ```markdown
-# Goals
+Group Goals
 - Start with and customize a puppy linux distribution
 - Remove unnecessary components from source code
 - Ensure the distro can be burnt onto and used off of a flash drive
