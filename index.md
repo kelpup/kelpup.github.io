@@ -1,10 +1,13 @@
+Links
+---
 [Wiki](wiki.md)
 
 [Downloads](downloads.md)
 
 [Contact Info](contact.md)
----
+
 ## Welcome to the KelPup Lightweight Linux Distribution
+---
 
 <img src="kelpie.jpeg" alt="hi" class="inline"/>
 
