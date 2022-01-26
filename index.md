@@ -1,5 +1,4 @@
 ## Welcome to the KelPup Lightweight Linux Distribution
----
 
 # Links
 [Wiki](wiki.md)
