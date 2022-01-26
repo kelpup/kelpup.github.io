@@ -1,4 +1,6 @@
-->## Welcome to the KelPup Lightweight Linux Distribution<-
+<center>
+![## Welcome to the KelPup Lightweight Linux Distribution]
+</center>
 
 You can use the [editor on GitHub](https://github.com/kelpup/kelpup/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
