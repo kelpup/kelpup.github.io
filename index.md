@@ -14,3 +14,5 @@ The goal of this project is to create a simple, easy to use linux distribution w
 - Ensure the distro runs even on older machines 
 - Add features that help new users navigate the linux command line
 ```
+
+[Sample new page](index2.md)
