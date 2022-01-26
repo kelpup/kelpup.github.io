@@ -1,12 +1,5 @@
 ## Welcome to the KelPup Lightweight Linux Distribution
 
-# Links
-[Wiki](wiki.md)
-
-[Downloads](downloads.md)
-
-[Contact Info](contact.md)
-
 <img src="kelpie.jpeg" alt="hi" class="inline"/>
 
 ### Mission Statement
@@ -21,3 +14,10 @@ Group Goals
 - Ensure the distro runs even on older machines 
 - Add features that help new users navigate the linux command line
 ```
+
+### Links
+[Wiki](wiki.md)
+
+[Downloads](downloads.md)
+
+[Contact Info](contact.md)
