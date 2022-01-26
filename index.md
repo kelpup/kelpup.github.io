@@ -1,14 +1,8 @@
-<p align="center">
-  <b>## Welcome to the KelPup Lightweight Linux Distribution</b>
-</p>
+## Welcome to the KelPup Lightweight Linux Distribution</b>
 
-You can use the [editor on GitHub](https://github.com/kelpup/kelpup/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Mission Statement
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The goal of this project is to create a simple, easy to use linux distribution with the hopes that it will be education to underprivileged computer science students. We would like for the distribution to be accessable via a flashdrive, and for it to run on older, slower machines. 
 
 ```markdown
 Syntax highlighted code block
