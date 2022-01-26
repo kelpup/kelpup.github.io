@@ -1,6 +1,6 @@
 ## Welcome to the KelPup Lightweight Linux Distribution
 
-
+![The Mythical Kelpie](/kelpup/kelpie.jpeg)
 
 ### Mission Statement
 
