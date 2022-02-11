@@ -1,6 +1,6 @@
 ## Welcome to the KelPup Lightweight Linux Distribution
 
-<img src="kelpie.jpeg" alt="hi" class="inline"/>
+<img src="kelpie-1000.jpeg" alt="hi" class="inline"/>
 
 ### Mission Statement
 
