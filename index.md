@@ -4,7 +4,11 @@
 
 ### Mission Statement
 
-The goal of this project is to create a simple, easy to use linux distribution with the hopes that it will be education to underprivileged computer science students. We would like for the distribution to be accessable via a flashdrive, and for it to run on older, slower machines. 
+The goal of this project is to create a simple, easy to use linux distribution. It is our hope that the distro will be accessable and educational to underprivileged students interested in computer science. The distribution should be bootable off of a flashdrive, and simplistic enough to run on older, slower machines. 
+
+### Getting Started
+
+To download and use our custom linux distro, click on the following [Link](instructions.md) for instructions. You'll have to install some easy-to-use software that burns our code directly onto a flashdrive. Then, you can reboot your computer and start playing with our distro!
 
 ```markdown
 Group Goals
@@ -21,3 +25,5 @@ Group Goals
 [Downloads](downloads.md)
 
 [Contact Info](contact.md)
+
+[Installation Info](instructions.md)
