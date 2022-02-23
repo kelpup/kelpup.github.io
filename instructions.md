@@ -45,17 +45,17 @@ Click on the "Start" button, leaving all other settings at default.
 
 <img src="Windows Instructions/Start.PNG" alt="Start the ISO burning Process" class="inline" height="350"/>
 
-```markdown
 #### You may encounter additional warnings or pop ups after pressing start:
-#####"Download Required":
+```markdown
+# "Download Required":
   - Rufus requires supplemental files to burn your ISO. 
   - Simply press "Ok" to resolve the issue.
   - More files will be installed. 
-##### "ISOHybrid Image Detected":
+# "ISOHybrid Image Detected":
   - Rufus recognizes your ISO as being compatable with aditional discs. 
   - Simply select the "Write in ISO Image Mode" bubble to continue. 
   - It will be the recommended / default option. 
-##### "Data Destruction Warning":
+# "Data Destruction Warning":
   - All previous contents on the USB will be overwritten. 
   - If this is not acceptable, select a new device. 
   - Otherwise, simply press "Ok" 
