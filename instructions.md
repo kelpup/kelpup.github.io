@@ -19,7 +19,7 @@ So when you download our ISO file, it is really just a copy of the linux distrub
 
 Following the link above to Rufus' website, navigate to the large "download" button near the top of the home page. 
 
-<!-- <img src="kelpie-1000.jpeg" alt="hi" class="inline"/> -->
+<img src="Windows Instructions/DownloadRufus.PNG" alt="hi" class="inline"/>
 
 Click the button and boot up the software. 
 
@@ -27,7 +27,7 @@ Click the button and boot up the software.
 
 Upon booting up the software, the following option menu will greet you:
 
-<!-- <img src="kelpie-1000.jpeg" alt="hi" class="inline"/> -->
+<img src="Windows Instructions/SelectUSB.png" alt="hi" class="inline"/>
 
 The first step is to let Rufus know what device you'll be burning to. To do this, plug in your external USB, and navigate to the "Device" field of the menu. From there, select your personal USB. 
 
@@ -35,7 +35,7 @@ The first step is to let Rufus know what device you'll be burning to. To do this
 
 Use this [Link](https://github.com/orgs/kelpup/repositories) to download our ISO. Make sure to download the file to somewhere you will remember. Then, click on the "Select" drop down to the right of the Boot Selection menu. 
 
-<!-- <img src="kelpie-1000.jpeg" alt="hi" class="inline"/> -->
+<img src="Windows Instructions/SelectISO.png" alt="hi" class="inline"/>
 
 Navigate to your Kelpup download, and select "open". 
 
@@ -43,7 +43,7 @@ Navigate to your Kelpup download, and select "open".
 
 Click on the "Start" button, leaving all other settings at default. 
 
-<!-- <img src="kelpie-1000.jpeg" alt="hi" class="inline"/> -->
+<img src="Windows Instructions/Start.PNG" alt="hi" class="inline"/>
 
 ```markdown
 You may encounter additional warnings or pop ups after pressing start:
@@ -54,7 +54,7 @@ You may encounter additional warnings or pop ups after pressing start:
 
 While the ISO burns, you will see a status bar that shows progress. Most ISO burnings will take ~10 minutes. 
 
-<!-- <img src="kelpie-1000.jpeg" alt="hi" class="inline"/> -->
+<img src="Windows Instructions/Status.png" alt="hi" class="inline"/>
 
 ### Step 4 - Using the ISO
 
@@ -67,6 +67,6 @@ When the progress bar fills, you can select "Close" and quit Rufus. To use the I
 
 Choose to enter BIOS Setup, and the following utility page will appear:
 
-<!-- <img src="kelpie-1000.jpeg" alt="hi" class="inline"/> -->
+<img src="Windows Instructions/BIOS.PNG" alt="hi" class="inline"/>
 
 Navigate to the "Boot" tab. All of your avalible system devices will be displayed here in the order of their priority. To run Kelpup Linux, you will have to move it such that it is number one in the list. When you have done this, your computer will automatically reboot an run Kelpie Puppy Linux!
