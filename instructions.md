@@ -19,7 +19,7 @@ So when you download our ISO file, it is really just a copy of the linux distrub
 
 Following the link above to Rufus' website, navigate to the large "download" button near the top of the home page. 
 
-<img src="Windows Instructions/DownloadRufus.PNG" alt="hi" class="inline"/>
+<img src="Windows Instructions/DownloadRufus.PNG" alt="Rufus Download Button" class="inline" width="407"/>
 
 Click the button and boot up the software. 
 
@@ -47,9 +47,18 @@ Click on the "Start" button, leaving all other settings at default.
 
 ```markdown
 You may encounter additional warnings or pop ups after pressing start:
-- "Download Required" means that supplemental files are needed by Rufus to burn your ISO. Simply press "Ok".
-- "ISOHybrid Image Detected" is a warning that occurs because Rufus recognizes your ISO as being compatable with CDs. Simply select the "Write in ISO Image Mode" bubble and continue. 
-- "Data Destruction" warning is just letting you know the USB will be completely wiped of all previous content.  
+- "Download Required":
+  - Rufus requires supplemental files to burn your ISO. 
+  - Simply press "Ok" to resolve the issue.
+  - More files will be installed. 
+- "ISOHybrid Image Detected":
+  - Rufus recognizes your ISO as being compatable with aditional discs. 
+  - Simply select the "Write in ISO Image Mode" bubble to continue. 
+  - It will be the recommended / default option. 
+- "Data Destruction Warning":
+  - All previous contents on the USB will be overwritten. 
+  - If this is not acceptable, select a new device. 
+  - Otherwise, simply press "Ok" 
 ```
 
 While the ISO burns, you will see a status bar that shows progress. Most ISO burnings will take ~10 minutes. 
