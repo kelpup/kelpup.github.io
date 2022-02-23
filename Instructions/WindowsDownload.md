@@ -19,7 +19,7 @@ So when you download our ISO file, it is really just a copy of the linux distrub
 
 Following the link above to Rufus' website, navigate to the large "download" button near the top of the home page. 
 
-<img src="Windows Instructions/DownloadRufus.PNG" alt="Rufus Download Button" class="inline"/>
+<img src="Windows Instructions Images/DownloadRufus.PNG" alt="Rufus Download Button" class="inline"/>
 
 Click the button and boot up the software. 
 
@@ -27,7 +27,7 @@ Click the button and boot up the software.
 
 Upon booting up the software, the following option menu will greet you:
 
-<img src="Windows Instructions/SelectUSB.png" alt="Selecting a USB within Rufus" class="inline" height="450"/>
+<img src="Windows Instructions Images/SelectUSB.png" alt="Selecting a USB within Rufus" class="inline" height="450"/>
 
 The first step is to let Rufus know what device you'll be burning to. To do this, plug in your external USB, and navigate to the "Device" field of the menu. From there, select your personal USB. 
 
@@ -35,7 +35,7 @@ The first step is to let Rufus know what device you'll be burning to. To do this
 
 Use this [Link](https://github.com/orgs/kelpup/repositories) to download our ISO. Make sure to download the file to somewhere you will remember. Then, click on the "Select" drop down to the right of the Boot Selection menu. 
 
-<img src="Windows Instructions/SelectISO.png" alt="Selecting an ISO within Rufus" class="inline" height="450"/>
+<img src="Windows Instructions Images/SelectISO.png" alt="Selecting an ISO within Rufus" class="inline" height="450"/>
 
 Navigate to your Kelpup download, and select "open". 
 
@@ -43,7 +43,7 @@ Navigate to your Kelpup download, and select "open".
 
 Click on the "Start" button, leaving all other settings at default. 
 
-<img src="Windows Instructions/Start.PNG" alt="Start the ISO burning Process" class="inline" height="450"/>
+<img src="Windows Instructions Images/Start.PNG" alt="Start the ISO burning Process" class="inline" height="450"/>
 
 #### You may encounter additional warnings or pop ups after pressing start:
 ```markdown
@@ -63,7 +63,7 @@ Click on the "Start" button, leaving all other settings at default.
 
 While the ISO burns, you will see a status bar that shows progress. Most ISO burnings will take ~10 minutes. 
 
-<img src="Windows Instructions/Status.png" alt="Rufus Status Bar" class="inline" height="450"/>
+<img src="Windows Instructions Images/Status.png" alt="Rufus Status Bar" class="inline" height="450"/>
 
 ### Step 4 - Using the ISO
 
@@ -76,6 +76,6 @@ When the progress bar fills, you can select "Close" and quit Rufus. To use the I
 
 Choose to enter BIOS Setup, and the following utility page will appear:
 
-<img src="Windows Instructions/BIOS.PNG" alt="BIOS Menu" class="inline" height="450"/>
+<img src="Windows Instructions Images/BIOS.PNG" alt="BIOS Menu" class="inline" height="450"/>
 
 Navigate to the "Boot" tab. All of your avalible system devices will be displayed here in the order of their priority. To run Kelpup Linux, you will have to move it such that it is number one in the list. When you have done this, your computer will automatically reboot an run Kelpie Puppy Linux!
