@@ -27,7 +27,7 @@ Click the button and boot up the software.
 
 Upon booting up the software, the following option menu will greet you:
 
-<img src="Windows Instructions/SelectUSB.png" alt="Selecting a USB within Rufus" class="inline"/>
+<img src="Windows Instructions/SelectUSB.png" alt="Selecting a USB within Rufus" class="center"/>
 
 The first step is to let Rufus know what device you'll be burning to. To do this, plug in your external USB, and navigate to the "Device" field of the menu. From there, select your personal USB. 
 
