@@ -69,4 +69,4 @@ Choose to enter BIOS Setup, and the following utility page will appear:
 
 <!-- <img src="kelpie-1000.jpeg" alt="hi" class="inline"/> -->
 
-Navigate to the "Boot" tab. All of your avalible system devices will be displayed here in the order of their priority. To run Kelpup Linux, you will have to move it such that it is number one in the list. 
+Navigate to the "Boot" tab. All of your avalible system devices will be displayed here in the order of their priority. To run Kelpup Linux, you will have to move it such that it is number one in the list. When you have done this, your computer will automatically reboot an run Kelpie Puppy Linux!
