@@ -27,7 +27,7 @@ Click the button and boot up the software.
 
 Upon booting up the software, the following option menu will greet you:
 
-<img src="Windows Instructions/SelectUSB.png" alt="Selecting a USB within Rufus" class="inline" height="350"/>
+<img src="Windows Instructions/SelectUSB.png" alt="Selecting a USB within Rufus" class="inline"/>
 
 The first step is to let Rufus know what device you'll be burning to. To do this, plug in your external USB, and navigate to the "Device" field of the menu. From there, select your personal USB. 
 
@@ -35,7 +35,7 @@ The first step is to let Rufus know what device you'll be burning to. To do this
 
 Use this [Link](https://github.com/orgs/kelpup/repositories) to download our ISO. Make sure to download the file to somewhere you will remember. Then, click on the "Select" drop down to the right of the Boot Selection menu. 
 
-<img src="Windows Instructions/SelectISO.png" alt="Selecting an ISO within Rufus" class="inline" height="350"/>
+<img src="Windows Instructions/SelectISO.png" alt="Selecting an ISO within Rufus" class="inline"/>
 
 Navigate to your Kelpup download, and select "open". 
 
@@ -43,7 +43,7 @@ Navigate to your Kelpup download, and select "open".
 
 Click on the "Start" button, leaving all other settings at default. 
 
-<img src="Windows Instructions/Start.PNG" alt="Start the ISO burning Process" class="inline" height="350"/>
+<img src="Windows Instructions/Start.PNG" alt="Start the ISO burning Process" class="inline"/>
 
 #### You may encounter additional warnings or pop ups after pressing start:
 ```markdown
@@ -63,7 +63,7 @@ Click on the "Start" button, leaving all other settings at default.
 
 While the ISO burns, you will see a status bar that shows progress. Most ISO burnings will take ~10 minutes. 
 
-<img src="Windows Instructions/Status.png" alt="Rufus Status Bar" class="inline" height="350"/>
+<img src="Windows Instructions/Status.png" alt="Rufus Status Bar" class="inline"/>
 
 ### Step 4 - Using the ISO
 
