@@ -53,10 +53,13 @@ Note: If you're USB doesn't show up, it's probably just not formatted correctly.
 10. Hit Okay, and wait for the program to finish running. Once it's done, you have a bootable USB! 
 
 ### MacOS: Disable Secure Boot to allow dual-booting off of a USB
-1. For these next steps, you'll have to reboot your computer, enter recovery mode, and disable secure boot, so you can't have these instructions pulled up at the same time. Probably best to take a photo or write down these instructions.
+1. For these next steps, you'll have to reboot your computer, enter recovery mode, and disable secure boot, so you can't have these instructions pulled up at the same time. Probably best to take a photo or write down these instructions. 
+2. Restart your Mac. When the Apple logo appears, hold "Command-R" to bring up the "macOS Recovery" menu. 
+3. Select your user account and enter the administrator password. 
+4. When the macOS utilities window appears, choose: Utilities > Startup Security Utility 
+5. By default, the "Full Security" boot mode should be enabled. Click "no security" and save changes to allow the use of external OS. 
 
-### Windows: Create Bootable USB
+![Apple Disable Secure Boot](Windows Instructions/Apple.png)
 
-### Windows: Format USB
-
-### Windows: How to Dual-Boot
+### Windows
+Instructions for windows users can be found [here](instructions.md)
