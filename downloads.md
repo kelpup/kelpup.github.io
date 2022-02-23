@@ -59,7 +59,7 @@ Note: If you're USB doesn't show up, it's probably just not formatted correctly.
 4. When the macOS utilities window appears, choose: Utilities > Startup Security Utility 
 5. By default, the "Full Security" boot mode should be enabled. Click "no security" and save changes to allow the use of external OS. 
 
-<img src="Windows Instructions/Apple.png" alt="Apple Disable Secure Boot Menu" class="inline"/>
+<img src="Windows Instructions/apple.png" alt="Apple Disable Secure Boot Menu" class="inline"/>
 ![Apple Disable Secure Boot](Windows Instructions/Apple.png)
 
 ### Windows
