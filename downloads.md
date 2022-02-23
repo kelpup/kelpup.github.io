@@ -3,7 +3,27 @@
 SO, you want to dual-boot your laptop with Puppy Linux. Now what? You'll need a USB that doesn't have anything important on it, your laptop, and internet connection. 
 
 ### MacOS: Format USB to properly boot off of it
-TODO: how to use disk utility, etc
+1. Open Finder, and select the Applications tab from the lefthand side. Then, click on the Utilities foler. 
+
+<img width="115" alt="Screen_Shot_2022-02-21_at_10 41 53_PM" src="https://user-images.githubusercontent.com/65368903/155399733-d08c9905-aa7d-42fe-99d9-4b9870aaff28.png">
+
+2. Click on the Disk Utility application.
+
+<img width="101" alt="Screen_Shot_2022-02-21_at_10 42 10_PM" src="https://user-images.githubusercontent.com/65368903/155399816-1ee4bf06-8504-479c-b9d1-48ec9baab9a5.png">
+
+3. The Disk Utility application will show you all of the disks that your laptop has access to. The internal ones are the drives actually inside your computer, and the external drives are things like USBs and other things you physically plug into your laptop. Disk images can be ignored. Plug in your USB to one of the ports of your laptop, and you should see it appear under External. Select it.
+
+![Screen_Shot_2022-02-21_at_10 44 15_PM](https://user-images.githubusercontent.com/65368903/155399927-b2f7a270-93ce-4c0f-b666-a54091896f97.png)
+
+Note: If your USB does not appear under External when you plug it in, it might be formatted in a way that your computer doesn't understand. Just try another USB.
+
+4. From the top right, select Erase. Rename your USB to whatever you want, and select MS-DOS (FAT) as the format. 
+
+![Screen_Shot_2022-02-21_at_10 44 56_PM](https://user-images.githubusercontent.com/65368903/155400385-4f0f20a1-2858-4e15-b62c-0b81304f224d.png)
+
+Note: If there's also Scheme option for your USB, set is as GUID Partition Map.
+
+5. Hit Erase, and wait for the program to finish running. Now your USB is properly formatted! Don't worry if your computer sends you a message saying it can't read it- we formatted it to be bootable from, so it's not sure what to do with the USB at this point. We'll fix it in the next section!
 
 ### MacOS: Create Bootable USB
 1. Download [UNetbootin](https://unetbootin.github.io/).
@@ -33,6 +53,7 @@ Note: If you're USB doesn't show up, it's probably just not formatted correctly.
 10. Hit Okay, and wait for the program to finish running. Once it's done, you have a bootable USB! 
 
 ### MacOS: Disable Secure Boot to allow dual-booting off of a USB
+1. For these next steps, you'll have to reboot your computer, enter recovery mode, and disable secure boot, so you can't have these instructions pulled up at the same time. Probably best to take a photo or write down these instructions.
 
 ### Windows: Create Bootable USB
 
