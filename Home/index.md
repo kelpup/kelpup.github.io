@@ -8,7 +8,7 @@ The goal of this project is to create a simple, easy to use linux distribution. 
 
 ### Getting Started
 
-To download and use our custom linux distro, click on the following [Link](instructions.md) for instructions. You'll have to install some easy-to-use software that burns our code directly onto a flashdrive. Then, you can reboot your computer and start playing with our distro!
+To download and use our custom linux distro, click on the following links for either [Windows](Instructions/WindowsDownload.md) or [macOS](Instructions/MacDownload.md) for instructions. You'll have to install some easy-to-use software that burns our code directly onto a flashdrive. Then, you can reboot your computer and start playing with our distro!
 
 ```markdown
 Group Goals
@@ -20,10 +20,12 @@ Group Goals
 ```
 
 ### Links
-[Wiki](wiki.md)
+[Wiki](Wiki/wiki.md)
 
 [Downloads](downloads.md)
 
-[Contact Info](contact.md)
+[Contact Info](Contact/contact.md)
 
-[Installation Info](instructions.md)
+[Installation Info - Mac](Instructions/MacDownload.md)
+
+[Installation Info - Windows](Instructions/WindowsDownload.md)
