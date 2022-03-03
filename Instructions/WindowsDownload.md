@@ -81,6 +81,7 @@ Choose to enter BIOS Setup, and the following utility page will appear:
 Navigate to the "Boot" tab. All of your avalible system devices will be displayed here in the order of their priority. To run Kelpup Linux, you will have to move it such that it is number one in the list. When you have done this, your computer will automatically reboot an run Kelpie Puppy Linux!
 
 ### Video Instructions
+Click anywhere on the image!
 [![Tutorial for Windows ISO Burning Using Rufus](https://img.youtube.com/vi/36rBh0DTjJ0/0.jpg)](https://www.youtube.com/watch?v=36rBh0DTjJ0)
 
 ### Mac Instructions
