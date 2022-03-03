@@ -62,4 +62,4 @@ Note: If you're USB doesn't show up, it's probably just not formatted correctly.
 <img src="Windows Instructions Images/apple.png" alt="Apple Disable Secure Boot Menu" class="inline"/>
 
 ### Windows Download and Setup
-Instructions for windows users can be found [here](instructions.md)
+Instructions for windows users can be found [here](WindowsDownload.md)
