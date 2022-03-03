@@ -62,7 +62,7 @@ Note: If you're USB doesn't show up, it's probably just not formatted correctly.
 <img src="Windows Instructions Images/apple.png" alt="Apple Disable Secure Boot Menu" class="inline"/>
 
 ### Video Tutorial for Mac
-[![Tutorial for Mac USB Formatting and ISO Burning](https://img.youtube.com/vi/afqgf71CjMQ/0.jpg)](youtube.com/watch?v=afqgf71CjMQ)
+[![Tutorial for Mac USB Formatting and ISO Burning](https://img.youtube.com/vi/afqgf71CjMQ/0.jpg)](https://www.youtube.com/watch?v=afqgf71CjMQ)
 
 Click anywhere on the image
 
