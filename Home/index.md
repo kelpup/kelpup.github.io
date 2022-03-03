@@ -22,7 +22,7 @@ Group Goals
 ### Links
 [Wiki](../Wiki/wiki.md)
 
-[Downloads](downloads.md)
+[Downloads](../Instructions/Releases.md)
 
 [Contact Info](../Contact/contact.md)
 
