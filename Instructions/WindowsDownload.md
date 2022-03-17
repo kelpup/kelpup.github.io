@@ -1,6 +1,3 @@
----
-what
----
 # Windows Instructions for Burning Our ISO
 
 ### Introduction - What is an ISO?
