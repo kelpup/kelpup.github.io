@@ -1,6 +1,5 @@
-<p align="center">
-  [Wiki](../Wiki/wiki.md)   [Downloads](../Instructions/Releases.md)    [Contact Info](../Contact/contact.md)   [Installation Info - Mac](../Instructions/MacDownload.md)   [Installation Info - Windows](../Instructions/WindowsDownload.md)
-</p>
+[Wiki](../Wiki/wiki.md)   [Downloads](../Instructions/Releases.md)    [Contact Info](../Contact/contact.md)   [Installation Info - Mac](../Instructions/MacDownload.md)     [Installation Info - Windows](../Instructions/WindowsDownload.md)
+
 ## Welcome to the KelPup Lightweight Linux Distribution
 
 <img src="kelpie-1000.jpeg" alt="hi" class="inline"/>
