@@ -1,6 +1,5 @@
 ---
-layout: page
-title: coursework
+layout: page: coursework
 ---
 # Windows Instructions for Burning Our ISO
 
