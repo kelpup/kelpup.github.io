@@ -5,7 +5,7 @@ Hello! Our names are Bridget, Jean, and Collin, computer science students at the
 
 ### Email
 
-Below are the email addresses for the 3 main contributers of the Kelpup Distro. 
+Below are the email addresses for the 3 main contributors of the Kelpup Distro. 
 ```markdown
 Bridget Goodwine: bgoodwin@nd.edu
 Jean Francois Boueri: jboueri@nd.edu
