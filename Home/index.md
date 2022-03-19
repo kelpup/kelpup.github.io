@@ -6,7 +6,7 @@
 
 ### Mission Statement
 
-The goal of this project is to create a simple, easy to use linux distribution. It is our hope that the distro will be accessable and educational to underprivileged students interested in computer science. The distribution should be bootable off of a flashdrive, and simplistic enough to run on older, slower machines. 
+The goal of this project is to create a simple, easy to use linux distribution. It is our hope that the distro will be accessible and educational to underprivileged students interested in computer science. The distribution should be bootable off of a flashdrive, and simplistic enough to run on older, slower machines. 
 
 ### Getting Started
 
