@@ -8,7 +8,6 @@ Kelpup is a woof-built [Puppy Linux](https://puppylinux.com/) distribution that 
 <img src="IMG_5360.jpeg" alt="hi" class="inline"/>
 
 ### Why KelPup? 
-
 ```markdown
 Why Kelpup?
 - small
@@ -16,15 +15,6 @@ Why Kelpup?
 - highlights why Linux >>>
 ```
 
-### Getting Started
-
-To download and use our custom linux distro, click on the following links for either [Windows](../Instructions/WindowsDownload.md) or [macOS](../Instructions/MacDownload.md) for instructions. You'll have to install some easy-to-use software that burns our code directly onto a flashdrive. Then, you can reboot your computer and start playing with our distro!
-
-```markdown
-Group Goals
-- Start with and customize a puppy linux distribution
-- Remove unnecessary components from source code
-- Ensure the distro can be burnt onto and used off of a flash drive
-- Ensure the distro runs even on older machines 
-- Add features that help new users navigate the linux command line
-```
+### What you need
+1. Grab a USB (>500 MB)
+2. Wifi
