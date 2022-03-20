@@ -1,4 +1,5 @@
 <a href="../Instructions/Releases.md" class="btn"><span class="icon"></span>Downloads</a> <a href="../Contact/contact.md" class="btn"><span class="icon"></span>Contact</a> <a href="../Instructions/WindowsDownload.md" class="btn"><span class="icon"></span>Windows Install</a> <a href="../Instructions/MacDownload.md" class="btn"><span class="icon"></span>MacOS Install</a>
+[Releases](../Instructions/Releases.md)
 
 ## About Kelpup
 Kelpup is an in-development distribution designed to be an easy first step into Linux. All you need to run Kelpup is a USB and a computer! 
