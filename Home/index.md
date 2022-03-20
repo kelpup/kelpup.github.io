@@ -18,3 +18,5 @@ Why Kelpup?
 ### What you need
 1. Grab a USB (>500 MB)
 2. Wifi
+
+That's it!
