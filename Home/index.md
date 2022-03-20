@@ -1,5 +1,3 @@
-[Wiki](../Wiki/wiki.md)   [Downloads](../Instructions/Releases.md)    [Contact Info](../Contact/contact.md)   [Installation Info - Mac](../Instructions/MacDownload.md)     [Installation Info - Windows](../Instructions/WindowsDownload.md)
-
 <a href="../Instructions/Releases.md" class="btn"><span class="icon"></span>Downloads</a> <a href="../Contact/contact.md" class="btn"><span class="icon"></span>Contact</a> <a href="../Instructions/WindowsDownload.md" class="btn"><span class="icon"></span>Windows Install</a> <a href="../Instructions/MacDownload.md" class="btn"><span class="icon"></span>MacOS Install</a>
 
 ## About Kelpup
