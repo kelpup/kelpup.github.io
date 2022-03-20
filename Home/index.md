@@ -3,10 +3,7 @@
 ## About Kelpup
 Kelpup is an in-development distribution designed to be an easy first step into Linux. All you need to run KelPup is a USB and a computer! 
 
-Kelpup is a woof-built [Puppy Linux](https://puppylinux.com/) distribution that was built off [FossaPup64](https://blog.puppylinux.com/fossapup64-release). Puppy Linux was created by [Barry Kauler](https://bkhome.org/news/) and FossaPup was developed by [Phil Broughton](https://github.com/mrfricks). 
-
-<a href="https://www.google.com/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
-
+Kelpup is a woof-built <a href="https://puppylinux.com/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Puppy Linux</a> distribution that was built off <a href="https://blog.puppylinux.com/fossapup64-release" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">FossaPup64</a>. Puppy Linux was created by <a href="https://bkhome.org/news/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Barry Kauler</a> and FossaPup was developed by <a href="https://github.com/mrfricks" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Phil Broughton</a>.
 
 <img src="IMG_5360.jpeg" alt="hi" class="inline"/>
 
