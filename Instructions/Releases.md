@@ -7,7 +7,7 @@ Back after break! Big changes have been going on around here, as we have switche
 
 <img src="Windows Instructions Images/fossa_kelpup.jpeg" alt="KelPup Test Run" class="inline"/>
 
-In this release we've added features like Conky and gcc, and have made customizations to the .bashrc and .vimrc to aid new users. We hope to continue to add better versions of classic compilers while making aesthetic features users will enjoy.  
+In this release we've added features like Conky, and have made customizations to the .bashrc and .vimrc to aid new users. We hope to continue to add better versions of classic compilers while making aesthetic features users will enjoy.  
 
 ### General Philosophy
 Our goal is to regularly release new Puppies that have added resources and features to aid students interested in Linux. Our base pup will be the BionicPup64-8.0, and from there we will add and remove material to make it our own distro. See the flow chart below for more information. 
