@@ -7,6 +7,8 @@ We say that you can "burn our ISO" onto a flashdrive, and use that to run our di
 
 So when you download our ISO file, it is really just a copy of the linux distribution we have created. By "burning" it onto a flashdrive, you are just making your own portable copy that you can then insert and boot on your own machine.
 
+Download your ISO from the <a href="Releases.html" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Downloads</a> page.
+
 ### What You'll Need
 ```markdown
 - A 1 GB or larger flashdrive
