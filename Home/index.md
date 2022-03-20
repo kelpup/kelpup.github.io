@@ -1,6 +1,9 @@
-<a href="../Instructions/Releases.md" class="btn"><span class="icon"></span>Downloads</a> <a href="../Contact/contact.md" class="btn"><span class="icon"></span>Contact</a> <a href="../Instructions/WindowsDownload.md" class="btn"><span class="icon"></span>Windows Install</a> <a href="../Instructions/MacDownload.md" class="btn"><span class="icon"></span>MacOS Install</a>
+<a href="../Instructions/Releases.html" class="btn"><span class="icon"></span>Downloads</a> <a href="../Contact/contact.html" class="btn"><span class="icon"></span>Contact</a> <a href="../Instructions/WindowsDownload.html" class="btn"><span class="icon"></span>Windows Install</a> <a href="../Instructions/MacDownload.html" class="btn"><span class="icon"></span>MacOS Install</a>
 
-[Releases](../Instructions/Releases.md)
+{[Releases](../Instructions/Releases.md)} {[Releases](../Instructions/Releases.md)}
+
+<a href="https://puppylinux.com/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Puppy Linux</a> 
+{<a href="../Instructions/Releases.html" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Releases</a>}
 
 ## About Kelpup
 Kelpup is an in-development distribution designed to be an easy first step into Linux. All you need to run Kelpup is a USB and a computer! 
