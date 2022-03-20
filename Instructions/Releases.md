@@ -1,13 +1,13 @@
 # Avalible Kelpup Releases for Download:
 
 ### Kelpup02 - 3/16/2022
-Back after break! Big changes have been going on around here, as we have switched our base Puppy entirely from versions 00 and 01! Welcome the newest member of the Kelpup family, the FassaPup-64. 
+Back after break! Big changes have been going on around here, as we have switched our base Puppy entirely from versions 00 and 01! Welcome the newest member of the Kelpup family, the FossaPup-64. 
 
 [Download](https://github.com/kelpup/woof-CE/releases/download/untagged-6fe153b8a635a28b9e2c/kelpup64-0.2.iso)
 
 <img src="Windows Instructions Images/fossa_kelpup.jpeg" alt="KelPup Test Run" class="inline"/>
 
-Already in this release we've added features like Conky and gcc, and have made customizations to the .bashrc and .vimrc to aid new users. We hope to continue to add better versions of classic compilers while making astetic features users will enjoy.  
+In this release we've added features like Conky and gcc, and have made customizations to the .bashrc and .vimrc to aid new users. We hope to continue to add better versions of classic compilers while making aesthetic features users will enjoy.  
 
 ### General Philosophy
 Our goal is to regularly release new Puppies that have added resources and features to aid students interested in Linux. Our base pup will be the BionicPup64-8.0, and from there we will add and remove material to make it our own distro. See the flow chart below for more information. 
