@@ -9,7 +9,7 @@ So when you download our ISO file, it is really just a copy of the linux distrib
 
 ### What You'll Need
 ```markdown
-- A 4GB or larger flashdrive
+- A 1 GB or larger flashdrive
 - Microsoft Windows
 - [Rufus](https://rufus.ie/en/), a third party ISO burning application
 - [Kelpup](), our personalized Linux distro's ISO image
