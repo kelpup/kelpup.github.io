@@ -6,18 +6,16 @@ Hello! Our names are Bridget, Jean Francois, and Collin, Electrical and Computer
 ### Email
 
 Below are the email addresses for the 3 main contributors of the Kelpup Distro. 
-
+```markdown
 Bridget Goodwine: bgoodwin@nd.edu
-BS in [Electrical Engineering](https://ee.nd.edu/)
-[GitHub Profile](https://github.com/bgoodwine)
+BS in Electrical Engineering
 
 Jean Francois Boueri: jboueri@nd.edu
-BS in [Computer Engineering](https://cse.nd.edu/)
-[GitHub Profile](https://github.com/jeanfboueri)
+BS in Computer Engineering
 
 Collin Finnan: cfinnan@nd.edu
-BS in [Electrical Engineering](https://ee.nd.edu/)
-[GitHub Profile](https://github.com/collinfinnan)
+BS in Electrical Engineering
+```
 
 ### Discord
 
