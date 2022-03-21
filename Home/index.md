@@ -16,6 +16,8 @@ Why Kelpup?
 - highlights why Linux >>>
 ```
 
+<img src="kelpup.png" alt="hi" class="inline"/>
+
 <ul>
   <li>
     Kelpup = Kelpie Puppy
