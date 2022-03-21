@@ -1,3 +1,5 @@
+<a href="../Home/index.html" class="btn">Home</a> <a href="../Instructions/Releases.html" class="btn">Downloads</a> <a href="../Contact/contact.html" class="btn">Contact</a> <a href="WindowsDownload.html" class="btn">Windows Install</a> <a href="MacDownload.html" class="btn">MacOS Install</a> <a href="https://github.com/kelpup/woof-CE" class="btn">Contribute</a> 
+
 # Avalible Kelpup Releases for Download:
 
 ### Kelpup02 - 3/16/2022 - <a href="https://github.com/kelpup/woof-CE/releases/download/untagged-6fe153b8a635a28b9e2c/kelpup64-0.2.iso" class="btn">Download</a>
