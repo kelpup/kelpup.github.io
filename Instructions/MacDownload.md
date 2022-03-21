@@ -1,3 +1,13 @@
+# MacOS Instructions for Running Kelpup
+
+### What You'll Need
+```markdown
+- A 1 GB or larger flashdrive
+- Wifi
+- A laptop running MacOS
+- Time!
+```
+
 ### Download ISO
 We say that you can "burn our ISO" onto a flashdrive, and use that to run our disro on your computer. But what does that really mean? 
 
