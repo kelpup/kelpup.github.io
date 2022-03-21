@@ -88,4 +88,4 @@ Navigate to the "Boot" tab. All of your avalible system devices will be displaye
 Click anywhere on the window!
 
 ### Mac Instructions
-Follow this [link](MacDownload.md) for instructions on ISO burning and booting with Macs. 
+Instructions for Mac users can be found <a href="MacDownload.md" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">here</a>.
