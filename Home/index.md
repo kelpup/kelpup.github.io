@@ -16,8 +16,6 @@ Why Kelpup?
 - highlights why Linux >>>
 ```
 
-<img src="kelpup.png" alt="hi" width="50" height="50" class="inline"/>
-
 <ul>
   <li>
     Kelpup = Kelpie Puppy
@@ -36,3 +34,5 @@ Why Kelpup?
 3. Computer
 
 That's it!
+
+<img src="kelpup.png" alt="hi" width="50" height="50" class="inline"/>
