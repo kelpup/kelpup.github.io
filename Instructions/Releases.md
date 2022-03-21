@@ -1,18 +1,18 @@
 # Avalible Kelpup Releases for Download:
 
 ### Kelpup02 - 3/16/2022
-Back after break! Big changes have been going on around here, as we have switched our base Puppy entirely from versions 00 and 01! Welcome the newest member of the Kelpup family, the FossaPup-64. 
+<img src="Windows Instructions Images/fossa_kelpup.jpeg" alt="KelPup Test Run" class="inline"/>
 
 <a href="https://github.com/kelpup/woof-CE/releases/download/untagged-6fe153b8a635a28b9e2c/kelpup64-0.2.iso" class="btn">Download</a>
 
-<img src="Windows Instructions Images/fossa_kelpup.jpeg" alt="KelPup Test Run" class="inline"/>
-
 ```markdown
 Release Notes:
-- Python!! The main reason we switched to Fossa in the first place is that it comes with Python already installed :)
-- Modified .bashrc to have a nicer looking user prompt (in the terminal)
-- Modified .bashrc so that each time the user opens a terminal window, a Linux Command Line tip is printed
-- Modified .vimrc so that users have at least a basic .vimrc when trying out VIM
+- Python! We switched to Fossa because it comes with Python already installed :)
+- Modified .bashrc 
+  - to have a nicer looking user prompt (in the terminal)
+  - so that each time the user opens a terminal window, a Linux Command Line tip is printed
+- Modified .vimrc 
+  - so that users have at least a basic .vimrc when trying out VIM
   (NOTE: VIM is not installed yet)
 - A terminal window pops up on Startup, so users are immediately encouraged to explore the command line
 - Conky runs automatically on Startup
