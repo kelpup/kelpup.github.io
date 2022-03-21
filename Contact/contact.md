@@ -1,3 +1,5 @@
+<a href="../Home/index.md" class="btn">Home</a> <a href="../Instructions/Releases.html" class="btn">Downloads</a> <a href="." class="btn">Contact</a> <a href="../Instructions/WindowsDownload.html" class="btn">Windows Install</a> <a href="../Instructions/MacDownload.html" class="btn">MacOS Install</a> <a href="https://github.com/kelpup/woof-CE" class="btn">Contribute</a> 
+
 ## Contact Information
 
 ### About Us
