@@ -1,6 +1,14 @@
-# Windows Instructions for Burning Our ISO
+# Windows Instructions for Running Kelpup
 
-### Introduction - What is an ISO?
+### What You'll Need
+```markdown
+- A 1 GB or larger flashdrive
+- Wifi
+- A laptop running Microsoft Windows
+- Time!
+```
+
+### Download ISO
 We say that you can "burn our ISO" onto a flashdrive, and use that to run our disro on your computer. But what does that really mean? 
 
 > "The idea behind an ISO imge is that you can archive an exact digital copy of a disc, and then later use that image to burn a new disc that's in turn an exact copy of the original (...) most operating systems allow you to mount an ISO image as a virtual disc, in which case all your apps treat it as if a real optical disc were inserted." - ([source](https://www.howtogeek.com/356714/what-is-an-iso-file-and-how-do-i-open-one/))
@@ -8,14 +16,6 @@ We say that you can "burn our ISO" onto a flashdrive, and use that to run our di
 So when you download our ISO file, it is really just a copy of the linux distribution we have created. By "burning" it onto a flashdrive, you are just making your own portable copy that you can then insert and boot on your own machine.
 
 Download your ISO from the <a href="Releases.html" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Downloads</a> page.
-
-### What You'll Need
-```markdown
-- A 1 GB or larger flashdrive
-- Microsoft Windows
-- [Rufus](https://rufus.ie/en/), a third party ISO burning application
-- [Kelpup](), our personalized Linux distro's ISO image
-```
 
 ### Step 1 - Download Rufus
 
