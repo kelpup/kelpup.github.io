@@ -16,8 +16,7 @@ Why Kelpup?
 - highlights why Linux >>>
 ```
 
-::marker
-"Kelpup = Kelpie Puppy" == $0
+<li>::marker "Kelpup = Kelpie Puppy" == $0</li>
 
 ### What you need
 1. Grab a USB (>=1 GB)
