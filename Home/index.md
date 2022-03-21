@@ -16,7 +16,7 @@ Why Kelpup?
 - highlights why Linux >>>
 ```
 
-<img src="kelpup.png" alt="hi" class="inline"/>
+<img src="kelpup.png" alt="hi" width="40" height="40" class="inline"/>
 
 <ul>
   <li>
