@@ -7,7 +7,18 @@ Back after break! Big changes have been going on around here, as we have switche
 
 <img src="Windows Instructions Images/fossa_kelpup.jpeg" alt="KelPup Test Run" class="inline"/>
 
-In this release we've added features like Conky, and have made customizations to the .bashrc and .vimrc to aid new users. We hope to continue to add better versions of classic compilers while making aesthetic features users will enjoy.  
+In this release we've added features like Conky, and have made customizations to the .bashrc and .vimrc to aid new users. We hope to continue to add better versions of classic compilers while making aesthetic features users will enjoy.
+```markdown
+Release Notes:
+- Python!! The main reason we switched to Fossa in the first place is that it comes with Python already installed :)
+- Modified .bashrc to have a nicer looking user prompt (in the terminal)
+- Modified .bashrc so that each time the user opens a terminal window, a Linux Command Line tip is printed
+- Modified .vimrc so that users have at least a basic .vimrc when trying out VIM (NOTE: VIM is not installed yet)
+- A terminal window pops up on Startup, so users are immediately encouraged to explore the command line
+- Conky runs automatically on Startup
+- Changed a wait time at boot-up from 60 seconds to 5 seconds (NOTE: It still prints "pausing for 60 seconds", but it's just 5 now)
+- Palemoon is automatically the default browser (without this change, clicking on the browser button would not work)
+```
 
 ### Kelpup01 - 3/2/2022
 In this latest version of Kelpup, we have continued to add resources for users while developing our own flair! The background got a major makeover, and the file system now includes Linux tips and tricks. Additionally, we have included Conky, a program that displays CPU usage, RAM avalibility, and other statistics in real time on the desktop. We hope that new users will find the Conky display interactive and "tech-y"! Click the link below to download. 
