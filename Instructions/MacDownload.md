@@ -82,4 +82,4 @@ Note: If you're USB doesn't show up, it's probably just not formatted correctly.
 Click anywhere on the image
 
 ### Windows Download and Setup
-Instructions for windows users can be found <a href="WindowsDownload.md" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">here</a>.
+Instructions for windows users can be found <a href="WindowsDownload.html" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">here</a>.
