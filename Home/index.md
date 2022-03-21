@@ -17,6 +17,8 @@ Why Kelpup?
 ```
 
 <li>::marker "Kelpup = Kelpie Puppy" == $0</li>
+<li>::marker Kelpies are shape-shifting water spirits in Scottish folklore == $0</li>
+<li>::marker Kelpup is designed as a first jump into the Linux pool! == $0</li>
 
 ### What you need
 1. Grab a USB (>=1 GB)
