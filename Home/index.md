@@ -16,6 +16,9 @@ Why Kelpup?
 - highlights why Linux >>>
 ```
 
+::marker
+"Kelpup = Kelpie Puppy" == $0
+
 ### What you need
 1. Grab a USB (>=1 GB)
 2. Wifi
