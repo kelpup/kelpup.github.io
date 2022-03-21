@@ -16,9 +16,9 @@ Why Kelpup?
 - highlights why Linux >>>
 ```
 
-<li>::marker "Kelpup = Kelpie Puppy"</li>
+<ul><li>::marker "Kelpup = Kelpie Puppy"</li>
 <li>::marker Kelpies are shape-shifting water spirits in Scottish folklore</li>
-<li>::marker Kelpup is designed as a first jump into the Linux pool!</li>
+<li>::marker Kelpup is designed as a first jump into the Linux pool!</li></ul>
 
 ### What you need
 1. Grab a USB (>=1 GB)
