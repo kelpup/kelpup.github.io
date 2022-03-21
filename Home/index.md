@@ -18,13 +18,13 @@ Why Kelpup?
 
 <ul>
   <li>
-    "Kelpup = Kelpie Puppy"
+    Kelpup = Kelpie Puppy
   </li>
   <li>
-    "Kelpies are shape-shifting water spirits in Scottish folklore"
+    Kelpies are shape-shifting water spirits in Scottish folklore
   </li>
   <li>
-    "Kelpup is designed as a first jump into the Linux pool!"
+    Kelpup is designed as a first jump into the Linux pool!
   </li>
 </ul>
 
