@@ -1,3 +1,5 @@
+<a href="../Home/index.md" class="btn">Home</a> <a href="Releases.html" class="btn">Downloads</a> <a href="." class="btn">Contact</a> <a href="WindowsDownload.html" class="btn">Windows Install</a> <a href="." class="btn">MacOS Install</a> <a href="https://github.com/kelpup/woof-CE" class="btn">Contribute</a> 
+
 # MacOS Instructions for Running Kelpup
 
 ### What You'll Need
