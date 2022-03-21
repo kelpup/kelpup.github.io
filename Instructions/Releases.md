@@ -1,9 +1,9 @@
 # Avalible Kelpup Releases for Download:
 
-### Kelpup02 - 3/16/2022
+### Kelpup02 - 3/16/2022 - <a href="https://github.com/kelpup/woof-CE/releases/download/untagged-6fe153b8a635a28b9e2c/kelpup64-0.2.iso" class="btn">Download</a>
+
 <img src="Windows Instructions Images/fossa_kelpup.jpeg" alt="KelPup Test Run" class="inline"/>
 
-<a href="https://github.com/kelpup/woof-CE/releases/download/untagged-6fe153b8a635a28b9e2c/kelpup64-0.2.iso" class="btn">Download</a>
 
 ```markdown
 Release Notes:
