@@ -13,10 +13,12 @@ Release Notes:
 - Python!! The main reason we switched to Fossa in the first place is that it comes with Python already installed :)
 - Modified .bashrc to have a nicer looking user prompt (in the terminal)
 - Modified .bashrc so that each time the user opens a terminal window, a Linux Command Line tip is printed
-- Modified .vimrc so that users have at least a basic .vimrc when trying out VIM (NOTE: VIM is not installed yet)
+- Modified .vimrc so that users have at least a basic .vimrc when trying out VIM
+  (NOTE: VIM is not installed yet)
 - A terminal window pops up on Startup, so users are immediately encouraged to explore the command line
 - Conky runs automatically on Startup
-- Changed a wait time at boot-up from 60 seconds to 5 seconds (NOTE: It still prints "pausing for 60 seconds", but it's just 5 now)
+- Changed a wait time at boot-up from 60 seconds to 5 seconds 
+  (NOTE: It still prints "pausing for 60 seconds", but it's just 5 now)
 - Palemoon is automatically the default browser (without this change, clicking on the browser button would not work)
 ```
 
