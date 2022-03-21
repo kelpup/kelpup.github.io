@@ -1,4 +1,7 @@
-<a href="../Instructions/Releases.html" class="btn">Downloads</a> <a href="../Contact/contact.html" class="btn">Contact</a> <a href="../Instructions/WindowsDownload.html" class="btn">Windows Install</a> <a href="../Instructions/MacDownload.html" class="btn">MacOS Install</a> <a href="https://github.com/kelpup/woof-CE" class="btn">Contribute</a> 
+<a href="https://github.com/kelpup/kelpup.github.io/edit/gh-pages/Home/index.html" class="btn">Home</a> <a href="https://github.com/kelpup/kelpup.github.io/blob/gh-pages/Instructions/Releases.html" class="btn">Downloads</a> <a href="https://github.com/kelpup/kelpup.github.io/blob/gh-pages/Contact/contact.html" class="btn">Contact</a> <a href="../Instructions/WindowsDownload.html" class="btn">Windows Install</a> <a href="https://github.com/kelpup/kelpup.github.io/blob/gh-pages/Instructions/MacDownload.html" class="btn">MacOS Install</a> <a href="https://github.com/kelpup/woof-CE" class="btn">Contribute</a> 
+
+<a href="https://github.com/kelpup/kelpup.github.io/edit/gh-pages/Home/index.html" class="btn">Home</a> <a href="../Instructions/Releases.html" class="btn">Downloads</a> <a href="../Contact/contact.html" class="btn">Contact</a> <a href="../Instructions/WindowsDownload.html" class="btn">Windows Install</a> <a href="../Instructions/MacDownload.html" class="btn">MacOS Install</a> <a href="https://github.com/kelpup/woof-CE" class="btn">Contribute</a> 
+
 
 ## About Kelpup
 Kelpup is an in-development distribution designed to be an easy first step into Linux. All you need to run Kelpup is a USB and a computer! 
