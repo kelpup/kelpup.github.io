@@ -24,6 +24,9 @@ Release Notes:
 
 
 
+
+
+
 ### Kelpup01 - 3/2/2022 - <a href="https://github.com/kelpup/woof-CE/releases/download/untagged-2ff6bf6e6fd8b622adf4/kelpup64-0.1.iso" class="btn">Download</a>
 
 <img src="Windows Instructions Images/realease01-ss.jpeg" alt="Diagram for Edit Plan of BionicPup64 Release" class="inline"/>
@@ -35,6 +38,9 @@ Release Notes:
 - Added Conky configuration file (determines how Conky looks)
 - Modified default pTheme (Puppy Theme; background, other aesthetic things)
 ```
+
+
+
 
 
 
