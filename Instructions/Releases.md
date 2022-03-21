@@ -7,7 +7,6 @@ Back after break! Big changes have been going on around here, as we have switche
 
 <img src="Windows Instructions Images/fossa_kelpup.jpeg" alt="KelPup Test Run" class="inline"/>
 
-In this release we've added features like Conky, and have made customizations to the .bashrc and .vimrc to aid new users. We hope to continue to add better versions of classic compilers while making aesthetic features users will enjoy.
 ```markdown
 Release Notes:
 - Python!! The main reason we switched to Fossa in the first place is that it comes with Python already installed :)
