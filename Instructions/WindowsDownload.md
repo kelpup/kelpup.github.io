@@ -10,7 +10,7 @@
 - Time!
 ```
 
-### Download ISO
+### Step 1 - Download ISO
 We say that you can "burn our ISO" onto a flashdrive, and use that to run our disro on your computer. But what does that really mean? 
 
 > "The idea behind an ISO imge is that you can archive an exact digital copy of a disc, and then later use that image to burn a new disc that's in turn an exact copy of the original (...) most operating systems allow you to mount an ISO image as a virtual disc, in which case all your apps treat it as if a real optical disc were inserted." - (<a href="https://www.howtogeek.com/356714/what-is-an-iso-file-and-how-do-i-open-one/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">source</a>)
@@ -19,7 +19,7 @@ So when you download our ISO file, it is really just a copy of the linux distrib
 
 Download your ISO from the <a href="Releases.html" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Downloads</a> page.
 
-### Step 1 - Download Rufus
+### Step 2 - Download Rufus
 
 Following the link above to Rufus' website, navigate to the large "download" button near the top of the home page. 
 
@@ -27,23 +27,23 @@ Following the link above to Rufus' website, navigate to the large "download" but
 
 Click the button and boot up the software. 
 
-### Step 2 - Choosing USB Device
+### Step 3 - Choosing USB Device
 
 Upon booting up the software, the following option menu will greet you:
 
 <img src="Windows Instructions Images/SelectUSB.png" alt="Selecting a USB within Rufus" class="inline" height="450"/>
 
-The first step is to let Rufus know what device you'll be burning to. To do this, plug in your external USB, and navigate to the "Device" field of the menu. From there, select your personal USB. 
+The first step is to let Rufus know what device you'll be burning to. To do this, plug in your external USB, and navigate to the "Device" field of the menu. From there, select your personal USB.
 
-### Step 3 - Download and Select the Kelpup Linux Distro as Your ISO File
+### Step 4 - Select the Kelpup Linux Distro as Your ISO File
 
-Use this [Link](https://github.com/orgs/kelpup/repositories) to download our ISO. Make sure to download the file to somewhere you will remember. Then, click on the "Select" drop down to the right of the Boot Selection menu. 
+Once you have the ISO downloaded, make sure you know where it is downloaded on your computer. Then, click on the "Select" drop down to the right of the Boot Selection menu.
 
 <img src="Windows Instructions Images/SelectISO.png" alt="Selecting an ISO within Rufus" class="inline" height="450"/>
 
 Navigate to your Kelpup download, and select "open". 
 
-### Step 4 - Burn the ISO
+### Step 5 - Burn the ISO
 
 Click on the "Start" button, leaving all other settings at default. 
 
@@ -69,7 +69,7 @@ While the ISO burns, you will see a status bar that shows progress. Most ISO bur
 
 <img src="Windows Instructions Images/Status.png" alt="Rufus Status Bar" class="inline" height="450"/>
 
-### Step 4 - Using the ISO
+### Step 6 - Using the ISO
 
 When the progress bar fills, you can select "Close" and quit Rufus. To use the ISO, simply insert it into an external port on your Windows computer, reset your computer, and pull up the BIOS menu. Typcially you can do this using one of the following hotkeys, depending on your version of BIOS:
 - ESC
