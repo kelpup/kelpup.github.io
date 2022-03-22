@@ -43,7 +43,7 @@ Note: If there's also Scheme option for your USB, set is as GUID Partition Map.
 5. Hit Erase, and wait for the program to finish running. Now your USB is properly formatted! Don't worry if your computer sends you a message saying it can't read it- we formatted it to be bootable from, so it's not sure what to do with the USB at this point. We'll fix it in the next section!
 
 ### Burn ISO to USB
-1. Download [UNetbootin](https://unetbootin.github.io/).
+1. Download <a href="https://unetbootin.github.io/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">UNetbootin</a>.
 2. Open your Downloads folder, and double click on unetbootin.dmg.
 3. Double click on the UNetbootin application.
 
