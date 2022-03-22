@@ -1,6 +1,6 @@
 <a href="../Home/index.html" class="btn">Home</a> <a href="../Instructions/Releases.html" class="btn">Downloads</a> <a href="../Contact/contact.html" class="btn">Contact</a> <a href="../Instructions/WindowsDownload.html" class="btn">Windows Install</a> <a href="../Instructions/MacDownload.html" class="btn">MacOS Install</a> <a href="https://github.com/kelpup/woof-CE" class="btn">Contribute</a> 
 
-## Contact Information
+# Contact Information
 
 ### About Us
 Hello! Our names are Bridget, Jean Francois, and Collin, Electrical and Computer Engineering students at the <a href="https://www.nd.edu/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">University of Notre Dame</a>. We are currently in an <a href="https://www3.nd.edu/~pbui/teaching/cse.40677.sp22/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Open Source Software Development</a> course, and are working on making our very own Linux Distribution. Feel free to reach out to us with any questions about contributing to or using our software! 
