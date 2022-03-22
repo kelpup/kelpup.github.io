@@ -10,7 +10,7 @@
 - Time!
 ```
 
-### Download ISO
+### Step 1 - Download ISO
 We say that you can "burn our ISO" onto a flashdrive, and use that to run our disro on your computer. But what does that really mean? 
 
 > "The idea behind an ISO imge is that you can archive an exact digital copy of a disc, and then later use that image to burn a new disc that's in turn an exact copy of the original (...) most operating systems allow you to mount an ISO image as a virtual disc, in which case all your apps treat it as if a real optical disc were inserted." - (<a href="https://www.howtogeek.com/356714/what-is-an-iso-file-and-how-do-i-open-one/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">source</a>)
@@ -19,7 +19,7 @@ So when you download our ISO file, it is really just a copy of the linux distrib
 
 Download your ISO from the <a href="Releases.html" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Downloads</a> page.
 
-### Format USB
+### Step 2 - Format USB
 1. Open Finder, and select the Applications tab from the lefthand side. Then, click on the Utilities foler. 
 
 <img width="115" alt="Screen_Shot_2022-02-21_at_10 41 53_PM" src="https://user-images.githubusercontent.com/65368903/155399733-d08c9905-aa7d-42fe-99d9-4b9870aaff28.png">
@@ -42,7 +42,7 @@ Note: If there's also Scheme option for your USB, set is as GUID Partition Map.
 
 5. Hit Erase, and wait for the program to finish running. Now your USB is properly formatted! Don't worry if your computer sends you a message saying it can't read it- we formatted it to be bootable from, so it's not sure what to do with the USB at this point. We'll fix it in the next section!
 
-### Burn ISO to USB
+### Step 3 - Burn ISO to USB
 1. Download <a href="https://unetbootin.github.io/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">UNetbootin</a>.
 2. Open your Downloads folder, and double click on unetbootin.dmg.
 3. Double click on the UNetbootin application.
@@ -69,7 +69,7 @@ Note: If you're concerned you don't have the right drive selected, unplug and pl
 Note: If you're USB doesn't show up, it's probably just not formatted correctly. Go to the USB formatting instructions!
 10. Hit Okay, and wait for the program to finish running. Once it's done, you have a bootable USB! 
 
-### Disable Secure Boot to allow dual-booting off of a USB
+### Step 4 - Disable Secure Boot to allow dual-booting off of a USB
 1. For these next steps, you'll have to reboot your computer, enter recovery mode, and disable secure boot, so you can't have these instructions pulled up at the same time. Probably best to take a photo or write down these instructions. 
 2. Restart your Mac. When the Apple logo appears, hold "Command-R" to bring up the "macOS Recovery" menu. 
 3. Select your user account and enter the administrator password. 
