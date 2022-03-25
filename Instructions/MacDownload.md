@@ -77,10 +77,12 @@ Note: If you're USB doesn't show up, it's probably just not formatted correctly.
 3. Select your language and hit the next arrow.
 4. Click on the Utilities tab on the top left, and select Startup Security Utility, and enter your password when the account information pops up.
 5. On the Startup Security Utility screen, select "No Security" under Secure Boot and "Allow booting from external or removable media" under Allowed Boot Media.
-6. Hit the red X button on the Startup Security Utility screen, then click the apple on the top left and select Restart. 
-7. While the computer is restarting, hit the [option] key to bring up the boot loader menu. Select your wifi and then click the non-MacOS option- it might be called Windows, but it's really Kelpup. 
-8. While Kelpup is booting, select the default first option for everything. Now you're running Kelpup!!
-<img src="Windows Instructions Images/apple.png" alt="Apple Disable Secure Boot Menu" class="inline"/>
+
+![image-20181128060256-2](https://user-images.githubusercontent.com/65368903/160194400-a378f926-db58-473d-ab2f-37fe43116ca6.png)
+
+7. Hit the red X button on the Startup Security Utility screen, then click the apple on the top left and select Restart. 
+8. While the computer is restarting, hit the [option] key to bring up the boot loader menu. Select your wifi and then click the non-MacOS option- it might be called Windows, but it's really Kelpup. 
+9. While Kelpup is booting, select the default first option for everything. Now you're running Kelpup!!
 
 ### Video Tutorial for Mac
 [![Tutorial for Mac USB Formatting and ISO Burning](https://img.youtube.com/vi/afqgf71CjMQ/0.jpg)](https://www.youtube.com/watch?v=afqgf71CjMQ)
