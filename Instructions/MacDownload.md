@@ -74,10 +74,12 @@ Note: If you're USB doesn't show up, it's probably just not formatted correctly.
 ### Step 4 - Disable Secure Boot to allow dual-booting off of a USB
 1. For these next steps, you'll have to reboot your computer, enter recovery mode, and disable secure boot, so you can't have these instructions pulled up at the same time. Probably best to take a photo or write down these instructions. 
 2. Restart your Mac. When the Apple logo appears, hold "Command-R" to bring up the "macOS Recovery" menu. 
-3. Select your user account and enter the administrator password. 
-4. When the macOS utilities window appears, choose: Utilities > Startup Security Utility 
-5. By default, the "Full Security" boot mode should be enabled. Click "no security" and save changes to allow the use of external OS. 
-
+3. Select your language and hit the next arrow.
+4. Click on the Utilities tab on the top left, and select Startup Security Utility, and enter your password when the account information pops up.
+5. On the Startup Security Utility screen, select "No Security" under Secure Boot and "Allow booting from external or removable media" under Allowed Boot Media.
+6. Hit the red X button on the Startup Security Utility screen, then click the apple on the top left and select Restart. 
+7. While the computer is restarting, hit the [option] key to bring up the boot loader menu. Select your wifi and then click the non-MacOS option- it might be called Windows, but it's really Kelpup. 
+8. While Kelpup is booting, select the default first option for everything. Now you're running Kelpup!!
 <img src="Windows Instructions Images/apple.png" alt="Apple Disable Secure Boot Menu" class="inline"/>
 
 ### Video Tutorial for Mac
