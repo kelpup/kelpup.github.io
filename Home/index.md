@@ -35,4 +35,4 @@ Why Kelpup?
 
 That's it!
 
-<img src="kelpup.png" alt="hi" width="50" height="50" class="inline"/>
+<a href="./kelpie-1000.jpeg"> <img src="kelpup.png" alt="hi" width="50" height="50" class="inline"/> </a>
