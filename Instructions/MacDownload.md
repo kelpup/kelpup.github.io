@@ -17,50 +17,52 @@ We say that you can "burn our ISO" onto a flashdrive, and use that to run our di
 
 So when you download our ISO file, it is really just a copy of the linux distribution we have created. By "burning" it onto a flashdrive, you are just making your own portable copy that you can then insert and boot on your own machine.
 
-Download your ISO from the <a href="Releases.html" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Downloads</a> page, but don't open it!
+Download the lastest release from the <a href="Releases.html" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Downloads</a> page, but don't open it! It's an ISO- it's not meant to be opened like a folder or a file.
 
 ### Step 2 - Format USB
-1. Open Finder, and select the Applications tab from the lefthand side. Then, click on the Utilities foler. 
+1) Open Finder, and select the Applications tab from the lefthand side. Then, click on the Utilities foler. 
 
 <img width="115" alt="Screen_Shot_2022-02-21_at_10 41 53_PM" src="https://user-images.githubusercontent.com/65368903/155399733-d08c9905-aa7d-42fe-99d9-4b9870aaff28.png">
 
-2. Click on the Disk Utility application.
+2) Click on the Disk Utility application.
 
 <img width="101" alt="Screen_Shot_2022-02-21_at_10 42 10_PM" src="https://user-images.githubusercontent.com/65368903/155399816-1ee4bf06-8504-479c-b9d1-48ec9baab9a5.png">
 
-3. The Disk Utility application will show you all of the disks that your laptop has access to. The internal ones are the drives actually inside your computer, and the external drives are things like USBs and other things you physically plug into your laptop. Disk images can be ignored. Plug in your USB to one of the ports of your laptop, and you should see it appear under External. Select it.
+3) The Disk Utility application will show you all of the disks that your laptop has access to. The internal ones are the drives actually inside your computer, and the external drives are things like USBs and other things you physically plug into your laptop. Disk images can be ignored. Plug in your USB to one of the ports of your laptop, and you should see it appear under External. Select it.
 
 ![Screen_Shot_2022-02-21_at_10 44 15_PM](https://user-images.githubusercontent.com/65368903/155399927-b2f7a270-93ce-4c0f-b666-a54091896f97.png)
 
 Note: If your USB does not appear under External when you plug it in, it might be formatted in a way that your computer doesn't understand. Just try another USB.
 
-4. From the top right, select Erase. Rename your USB to whatever you want, and select MS-DOS (FAT) as the format. 
+4) From the top right, select Erase. Rename your USB to whatever you want, and select MS-DOS (FAT) as the format. 
 
 ![Screen_Shot_2022-02-21_at_10 44 56_PM](https://user-images.githubusercontent.com/65368903/155400385-4f0f20a1-2858-4e15-b62c-0b81304f224d.png)
 
-Note: If there's also Scheme option for your USB, set is as GUID Partition Map.
+Note: If there's also Scheme option for your USB, set it as GUID Partition Map.
 
-5. Hit Erase, and wait for the program to finish running. Now your USB is properly formatted! Don't worry if your computer sends you a message saying it can't read it- we formatted it to be bootable from, so it's not sure what to do with the USB at this point. We'll fix it in the next section!
+5) Hit Erase, and wait for the program to finish running. Now your USB is properly formatted! Don't worry if your computer sends you a message saying it can't read it- we formatted it to be bootable from, so it's not sure what to do with the USB at this point. We'll fix it in the next section!
 
 ### Step 3 - Burn ISO to USB
-1. Download <a href="https://unetbootin.github.io/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">UNetbootin</a>.
-2. Open your Downloads folder, and double click on unetbootin.dmg.
-3. Double click on the UNetbootin application.
+1) Download <a href="https://unetbootin.github.io/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">UNetbootin</a>.
+2) Open your Downloads folder, and double click on unetbootin.dmg.
+3) Double click on the UNetbootin application.
 
 ![Screen_Shot_2022-02-21_at_10 35 03_PM](https://user-images.githubusercontent.com/65368903/155394722-f4610b68-ae11-4a1f-9c14-539289364ae4.png)
 
 Note: At this point, it will likely not open, as the application is from an unidentified developer. If it does open, skip to step 8. If it does not open, follow these next steps.
-4. Open System Preferences, and click Security & Privacy. Click on the lock icon at the bottom right to enable changes. 
+4) Open System Preferences by clicking on the apple icon on the top left and selecting System Preferences. Once it's open, click on Security & Privacy. Then, click on the General tab. Click on the little padlock icon on the bottom left and enter your password to be able to make changes.
 
 ![Screen_Shot_2022-02-21_at_10 36 17_PM](https://user-images.githubusercontent.com/65368903/155395276-e2dd85cb-19c6-4e06-841c-ab478b48175c.png)
 
-5. A message should pop up telling you that UNetbootin was prevented from running. Click the option to allow it to run. Ensure App Store and identified developers is checked under Allow apps downloaded from.
-6. Double click the UNetbootin application again, and enter your password.
+5) A message should pop up telling you that UNetbootin was prevented from running. Click the option to allow it to run. Ensure App Store and identified developers is checked under Allow apps downloaded from.
+6) Double click the UNetbootin application again, and enter your password.
 
 ![Screen_Shot_2022-02-21_at_10 37 31_PM](https://user-images.githubusercontent.com/65368903/155395731-d83bb767-a24b-45b1-b3e3-7f76f49f8f1c.png)
 
 Note: Your laptop protects your USBs from applications, so they can't make changes like deleting your files behind your back. However, since we want to install KelPup to the USB, you'll have to give UNetbootin permission to do so, which is why it asks for your password.
-8. When UNetbootin opens, select PuppyLinux from the Distribution dropdown menu. Ensure ISO is selected in the middle section, and click the button with the three dots on the righthand side and navigate to your downloaded KelPup ISO file. Select USB Drive under the Type dropdown menu.
+Note: UNetbootin will ask for your password every time you open it- it can't access your USBs after you close it. 
+
+8. When UNetbootin opens, select ISO in in the middle section, and click the button with the three dots on the righthand side and navigate to your downloaded KelPup ISO file. It'll be called something like "kelpup62-x.x.iso" where x.x is the version you downloaded. Select USB Drive under the Type dropdown menu.
 
 ![Screen_Shot_2022-02-21_at_10 38 31_PM](https://user-images.githubusercontent.com/65368903/155396157-3583d5c5-fa8b-45e5-97f6-5e403b22fd6c.png)
 
