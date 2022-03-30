@@ -2,7 +2,7 @@
 
 # Avalible Kelpup Releases for Download:
 
-### Kelpup02 - 3/16/2022 - <a href="https://github.com/kelpup/woof-CE/releases/download/kelpup/kelpup64-0.2.iso" class="btn">Download</a>
+### BetaKelpup02 - 3/16/2022 - <a href="https://github.com/kelpup/woof-CE/releases/download/kelpup/kelpup64-0.2.iso" class="btn">Download</a>
 
 <img src="Windows Instructions Images/fossa_kelpup.jpeg" alt="KelPup Test Run" class="inline"/>
 
@@ -34,7 +34,7 @@ Release Notes:
     :)
   </li>
 </ul>
-### Kelpup01 - 3/2/2022 - <a href="https://github.com/kelpup/woof-CE/releases/download/untagged-2ff6bf6e6fd8b622adf4/kelpup64-0.1.iso" class="btn">Download</a>
+### BetaKelpup01 - 3/2/2022 - <a href="https://github.com/kelpup/woof-CE/releases/download/untagged-2ff6bf6e6fd8b622adf4/kelpup64-0.1.iso" class="btn">Download</a>
 
 <img src="Windows Instructions Images/realease01-ss.jpeg" alt="Diagram for Edit Plan of BionicPup64 Release" class="inline"/>
 
@@ -56,7 +56,7 @@ Release Notes:
     :)
   </li>
 </ul>
-### Kelpup00 - 2/23/2022 - <a href="https://github.com/kelpup/woof-CE/releases/download/untagged-da73ec5a0cc6dced32a6/bionic64-8.0.iso" class="btn">Download</a>
+### BetaKelpup00 - 2/23/2022 - <a href="https://github.com/kelpup/woof-CE/releases/download/untagged-da73ec5a0cc6dced32a6/bionic64-8.0.iso" class="btn">Download</a>
 
 
 ```markdown
