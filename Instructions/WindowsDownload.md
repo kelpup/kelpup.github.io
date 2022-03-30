@@ -71,6 +71,9 @@ While the ISO burns, you will see a status bar that shows progress. Most ISO bur
 
 ### Step 6 - Using the ISO
 
+NOTE: While these instructions work for some Windows Machines, it's probably best to look up how to enter the BIOS boot menu on your machine. You might also get a warning about "unsafe device" once you do boot up; you probably have to disable BitLocker or similar software that your machine has. For things like this, Google is your best friend!
+
+
 When the progress bar fills, you can select "Close" and quit Rufus. To use the ISO, simply insert it into an external port on your Windows computer, reset your computer, and pull up the BIOS menu. Typcially you can do this using one of the following hotkeys, depending on your version of BIOS:
 - ESC
 - F1
