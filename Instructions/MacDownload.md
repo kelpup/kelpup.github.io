@@ -60,22 +60,27 @@ Note: At this point, it will likely not open, as the application is from an unid
 ![Screen_Shot_2022-02-21_at_10 37 31_PM](https://user-images.githubusercontent.com/65368903/155395731-d83bb767-a24b-45b1-b3e3-7f76f49f8f1c.png)
 
 Note: Your laptop protects your USBs from applications, so they can't make changes like deleting your files behind your back. However, since we want to install KelPup to the USB, you'll have to give UNetbootin permission to do so, which is why it asks for your password.
-Note: UNetbootin will ask for your password every time you open it- it can't access your USBs after you close it. 
+Note: UNetbootin will ask for your password every time you open it- it can't access your USBs after you close it. Don't worry- it's not gonna overwrite anything behind your back.
 
-8. When UNetbootin opens, select ISO in in the middle section, and click the button with the three dots on the righthand side and navigate to your downloaded KelPup ISO file. It'll be called something like "kelpup62-x.x.iso" where x.x is the version you downloaded. Select USB Drive under the Type dropdown menu.
+8. When UNetbootin opens, select ISO in in the middle section, and click the button with the three dots on the righthand side and navigate to your downloaded KelPup ISO file. You might have to give UNetbootin permission to access your Downloads folder. It'll be called something like "kelpup62-x.x.iso" where x.x is the version you downloaded. Select it and hit open. Select USB Drive under the Type dropdown menu. 
 
 ![Screen_Shot_2022-02-21_at_10 38 31_PM](https://user-images.githubusercontent.com/65368903/155396157-3583d5c5-fa8b-45e5-97f6-5e403b22fd6c.png)
 
-9. The Drive dropdown menu will list external drives (like USBs) plugged into your computer. If it's empty, that's okay. Plug in your USB, and a name should pop up. It won't be named what your USB is named, but what your laptop calls the USB. 
-Note: If you're concerned you don't have the right drive selected, unplug and plug back in your USB. The drive should disappear and reappear.
-Note: If you're USB doesn't show up, it's probably just not formatted correctly. Go to the USB formatting instructions!
-10. Hit Okay, and wait for the program to finish running. Once it's done, you have a bootable USB! 
+9. The Drive dropdown menu will list external drives (like USBs) plugged into your computer. If it's empty, that's okay. Plug in your USB, and restart UNetbootin, and a name should pop up (make sure to re-do the steps above!). It's good practice to unplug any other external drives (like other USBs) while you're doing this so you don't accidently overwrite them. The drive won't be named what your USB is named, but something similar to /dev/disk2s1. These names are what your laptop calls external USBs. 
+Note: If you're concerned you don't have the right drive selected, unplug and restart UNetbootin. The USB should disapear from the drive options. You'll probably have to restart UNetbootin after plugging the USB back in.
+Note: If you're USB STILL doesn't show up, it's probably just not formatted correctly. Go to the USB formatting instructions!
+Note: You will probably have to hit okay to allow UNetbootin to access volumes on a usable volume
+
+10. Hit Okay, and wait for the program to finish running. This might take a while- it is transferring an entire operating system onto your USB. Once it's done, you have a bootable USB! 
+
+Note: DON'T take out your USB after this- we're gonna boot off of it!
 
 ### Step 4 - Disable Secure Boot to allow dual-booting off of a USB
+Note: these steps are somewhat dangerous- if you mess around, you could end up factory resetting your laptop. But if you follow the instructions carefully, it'll be fine!
 1. For these next steps, you'll have to reboot your computer, enter recovery mode, and disable secure boot, so you can't have these instructions pulled up at the same time. Probably best to take a photo or write down these instructions. 
 2. Restart your Mac. When the Apple logo appears, hold "Command-R" to bring up the "macOS Recovery" menu. 
 3. Select your language and hit the next arrow.
-4. Click on the Utilities tab on the top left, and select Startup Security Utility, and enter your password when the account information pops up.
+4. Click on the Utilities tab on the top left, and select Startup Security Utility, and enter your password when the account information pops up. It probably won't be an option on the middle box. 
 5. On the Startup Security Utility screen, select "No Security" under Secure Boot and "Allow booting from external or removable media" under Allowed Boot Media.
 
 ![image-20181128060256-2](https://user-images.githubusercontent.com/65368903/160194400-a378f926-db58-473d-ab2f-37fe43116ca6.png)
@@ -83,6 +88,10 @@ Note: If you're USB doesn't show up, it's probably just not formatted correctly.
 7. Hit the red X button on the Startup Security Utility screen, then click the apple on the top left and select Restart. 
 8. While the computer is restarting, hit the [option] key to bring up the boot loader menu. Select your wifi and then click the non-MacOS option- it might be called Windows, but it's really Kelpup. 
 9. While Kelpup is booting, select the default first option for everything. Now you're running Kelpup!!
+
+When you're done with Kelpup, just hit the power button and turn your computer off. Hit the power button again to turn it back on, and macOS will start automatically. You can save your session if you'd like, but if you got Kelpup to work, we think you should check out dual-booting with Ubuntu off of a USB. It's one of the most used Linux distros in the world, and you might eventually just use on your computer as your main operating system! 
+
+Look into booting Ubuntu off of a USB or dual-booting with Ubuntu by partitioning your drive :)
 
 ### Video Tutorial for Mac
 [![Tutorial for Mac USB Formatting and ISO Burning](https://img.youtube.com/vi/afqgf71CjMQ/0.jpg)](https://www.youtube.com/watch?v=afqgf71CjMQ)
