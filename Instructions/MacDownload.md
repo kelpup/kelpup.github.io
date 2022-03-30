@@ -76,7 +76,8 @@ Note: You will probably have to hit okay to allow UNetbootin to access volumes o
 Note: DON'T take out your USB after this- we're gonna boot off of it!
 
 ### Step 4 - Disable Secure Boot to allow dual-booting off of a USB
-Note: these steps are somewhat dangerous- if you mess around, you could end up factory resetting your laptop. But if you follow the instructions carefully, it'll be fine!
+Note: These steps are somewhat dangerous- if you mess around, you could end up factory resetting your laptop. But if you follow the instructions carefully, it'll be fine!
+
 1) For these next steps, you'll have to reboot your computer, enter recovery mode, and disable secure boot, so you can't have these instructions pulled up at the same time. Probably best to take a photo or write down these instructions. 
 2) Restart your Mac. When the Apple logo appears, hold "Command-R" to bring up the "macOS Recovery" menu. 
 3) Select your language and hit the next arrow.
