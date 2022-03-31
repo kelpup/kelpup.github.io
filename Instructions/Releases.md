@@ -2,13 +2,13 @@
 
 # Downloads
 
-### Latest Release - <a href="https://github.com/kelpup/woof-CE/releases/download/kelpup_beta/kelpup64-0.3.iso" class="btn">Download</a>
+### Latest Release - <a href="https://github.com/kelpup/woof-CE/releases/download/initial_release/kelpup64-1.0.iso" class="btn">Download</a>
 
 This is the initial release of Kelpup!
 ```markdown
 Release Notes:
 - Kelpup is built off FossaPup with woof-CE
-- Includes simple learning the command line games 
+- Includes the start of a simple learning the command line game
 - Opens Terminal at startup
 - Runs Conky on startup to provide a techy system monitor
   - Preconfigured conky configuration
