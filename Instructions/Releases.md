@@ -5,6 +5,18 @@
 ### Latest Release - <a href="https://github.com/kelpup/woof-CE/releases/download/kelpup_beta/kelpup64-0.3.iso" class="btn">Download</a>
 
 This is the initial release of Kelpup!
+```markdown
+Release Notes:
+- Kelpup is built off FossaPup with woof-CE
+- Includes simple learning the command line games 
+- Opens Terminal at startup
+- Runs Conky on startup to provide a techy system monitor
+  - Preconfigured conky configuration
+- Comes with Vim for text editing 
+  - Preconfigured .vimrc 
+- Comes with Python3
+- Includes self-paced resources and reference sheets for Vim and Python
+```
 
 # History of Kelpup Releases for Download:
 
