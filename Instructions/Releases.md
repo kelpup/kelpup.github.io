@@ -1,7 +1,40 @@
 <a href="../Home/index.html" class="btn">Home</a> <a href="../Instructions/Releases.html" class="btn">Downloads</a> <a href="../Contact/contact.html" class="btn">Contact</a> <a href="WindowsDownload.html" class="btn">Windows Install</a> <a href="MacDownload.html" class="btn">MacOS Install</a> <a href="https://github.com/kelpup/woof-CE" class="btn">Contribute</a> 
 
-# Avalible Kelpup Releases for Download:
+# Downloads
 
+### Latest Release - <a href="https://github.com/kelpup/woof-CE/releases/download/kelpup_beta/kelpup64-0.3.iso" class="btn">Download</a>
+
+This is the initial release of Kelpup!
+
+# History of Kelpup Releases for Download:
+
+### BetaKelpup03 - 3/16/2022 - <a href="https://github.com/kelpup/woof-CE/releases/download/kelpup_beta/kelpup64-0.3.iso" class="btn">Download</a>
+
+```markdown
+Release Notes:
+- Vim! We included Vim in the ISO by adding it to the list of deb packages that fossa pup downloads automatically
+  - It's in as vim.basic for some reason, so we aliased vim.basic to vim
+- Modified startup script to reflect the pausing for 5 seconds change
+- Added more python learning resources 
+  - Initial text files
+  - Zen of Python added
+- Added vim learning resources
+  - Beginning text files that give initial explinations
+  - Giant cheat sheet included for more advanced stuff
+  - The learn_python directory got some more files 
+  - The learn_vim directory got initial explination
+```
+<ul>
+  <li>
+    :)
+  </li>
+  <li>
+    :)
+  </li>
+  <li>
+    :)
+  </li>
+</ul>
 ### BetaKelpup02 - 3/16/2022 - <a href="https://github.com/kelpup/woof-CE/releases/download/kelpup/kelpup64-0.2.iso" class="btn">Download</a>
 
 <img src="Windows Instructions Images/fossa_kelpup.jpeg" alt="KelPup Test Run" class="inline"/>
