@@ -97,7 +97,7 @@ Note: If it doesn't work the first time and just brings up the MacOS, try, try a
 
 9) While Kelpup is booting, select the default first option for everything. Now you're running Kelpup!!
 
-When you're done with Kelpup, just hit the power button and turn your computer off. Hit the power button again to turn it back on, and macOS will start automatically. You can save your session if you'd like, but if you got Kelpup to work, we think you should check out dual-booting with Ubuntu off of a USB. It's one of the most used Linux distros in the world, and you might eventually just use on your computer as your main operating system! 
+When you're done with Kelpup, just hit the power button and turn your computer off. Hit the power button again to turn it back on, and macOS will start automatically. You can save your session if you'd like, but if you got Kelpup to work, we think you should try your hand at a bunch of distros, and decide which one is your favorite! Kelpup isn't designed to be a home base distro, but a stepping stone. 
 
 Look into booting Ubuntu off of a USB or dual-booting with Ubuntu by partitioning your drive :)
 
@@ -106,5 +106,8 @@ Look into booting Ubuntu off of a USB or dual-booting with Ubuntu by partitionin
 
 Click anywhere on the image
 
-### Windows Download and Setup
-Instructions for windows users can be found <a href="WindowsDownload.html" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">here</a>.
+### What's Next? 
+Now that you've successfully dual-booted your computer with a bootable USB running Kelpup, you could do the same process with almost any Linux distro!! 
+
+A super functional distro you could use is <a href="https://ubuntu.com/tutorials/create-a-usb-stick-on-macos#1-overview" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Ubuntu</a> - accessible, comes with a bunch of free applications, very user-friendly.
+
