@@ -5,6 +5,7 @@
 ### Kelpup01 - 3/31/2022 - <a href="https://github.com/kelpup/woof-CE/releases/download/initial_release/kelpup64-1.0.iso" class="btn">Download</a>
 
 This is the initial release of Kelpup!
+Checksum: 9febcd573fc31d464331a84893905fa9bdcb17badd3b5fd074f3e96525ca2690
 ```markdown
 Release Notes:
 - Kelpup is built off FossaPup with woof-CE
