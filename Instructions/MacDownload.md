@@ -107,7 +107,7 @@ Look into booting Ubuntu off of a USB or dual-booting with Ubuntu by partitionin
 Click anywhere on the image
 
 ### What's Next? 
-Now that you've successfully dual-booted your computer with a bootable USB running Kelpup, you could do the same process with almost any Linux distro!! 
+Now that you've successfully dual-booted your computer with a bootable USB running Kelpup, you could do the same process with almost any Linux distro!! Here's <a href="https://distrowatch.com/dwres.php?resource=major" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">an overview</a> to help you decide your next distro. You can check out these links for specific resources, but you should be able to just grab an ISO and repeat the same steps (minus disabling secure boot, that is!).
 
-A super functional distro you could use is <a href="https://ubuntu.com/tutorials/create-a-usb-stick-on-macos#1-overview" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Ubuntu</a> - accessible, comes with a bunch of free applications, very user-friendly.
+If you'd feel more comfortable following directions, Ubuntu super user-friendly distro with a bunch of free apps, and a <a href="https://ubuntu.com/tutorials/create-a-usb-stick-on-macos#1-overview" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">tutorial</a> that's pretty complete. 
 
