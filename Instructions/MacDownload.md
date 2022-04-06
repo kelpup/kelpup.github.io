@@ -101,11 +101,6 @@ When you're done with Kelpup, just hit the power button and turn your computer o
 
 Look into booting Ubuntu off of a USB or dual-booting with Ubuntu by partitioning your drive :)
 
-### Video Tutorial for Mac
-[![Tutorial for Mac USB Formatting and ISO Burning](https://img.youtube.com/vi/afqgf71CjMQ/0.jpg)](https://www.youtube.com/watch?v=afqgf71CjMQ)
-
-Click anywhere on the image
-
 ### What's Next? 
 Now that you've successfully dual-booted your computer with a bootable USB running Kelpup, you could do the same process with almost any Linux distro!! Here's <a href="https://distrowatch.com/dwres.php?resource=major" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">an overview</a> to help you decide your next distro. You can check out these links for specific resources, but you should be able to just grab an ISO and repeat the same steps (minus disabling secure boot, that is!).
 
@@ -146,3 +141,8 @@ Other distros you could try out:
     <a href="https://archlinux.org/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Arch</a>, btw
   </li>
 </ul>
+
+### Video Tutorial for Mac
+[![Tutorial for Mac USB Formatting and ISO Burning](https://img.youtube.com/vi/afqgf71CjMQ/0.jpg)](https://www.youtube.com/watch?v=afqgf71CjMQ)
+
+Click anywhere on the image
