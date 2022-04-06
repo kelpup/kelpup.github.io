@@ -115,32 +115,6 @@ Other distros you could try out:
 * <a href="http://www.slackware.com/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Slackware</a>
 * <a href="https://www.gentoo.org/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Gentoo</a>
 * <a href="https://archlinux.org/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Arch</a>, btw
-<ul>
-  <li>
-    <a href="https://linuxmint.com/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Linux Mint</a>
-  </li>
-  <li>
-    <a href="https://mxlinux.org/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">MX Linux</a>
-  </li>
-  <li>
-    <a href="https://www.opensuse.org/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">openSUSE</a>
-  </li>
-  <li>
-    <a href="https://getfedora.org/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Fedora</a>
-  </li>
-  <li>
-    <a href="https://www.debian.org/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Debian</a>
-  </li>
-  <li>
-    <a href="http://www.slackware.com/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Slackware</a>
-  </li>
-  <li>
-    <a href="https://www.gentoo.org/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Gentoo</a>
-  </li>
-  <li>
-    <a href="https://archlinux.org/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Arch</a>, btw
-  </li>
-</ul>
 
 ### Video Tutorial for Mac
 [![Tutorial for Mac USB Formatting and ISO Burning](https://img.youtube.com/vi/afqgf71CjMQ/0.jpg)](https://www.youtube.com/watch?v=afqgf71CjMQ)
