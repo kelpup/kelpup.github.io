@@ -92,11 +92,6 @@ Navigate to the "Boot" tab. All of your avalible system devices will be displaye
 
 When you're done with Kelpup, just hit the power button and turn your computer off. Hit the power button again to turn it back on, and Windows will start automatically. You can save your session if you'd like, but if you got Kelpup to work, we think you should try your hand at a bunch of distros, and decide which one is your favorite! Kelpup isn't designed to be a home base distro, but a stepping stone. 
 
-### Video Instructions
-[![Tutorial for Windows ISO Burning Using Rufus](https://img.youtube.com/vi/36rBh0DTjJ0/0.jpg)](https://www.youtube.com/watch?v=36rBh0DTjJ0)
-
-Click anywhere on the window!
-
 ### What's Next? 
 Now that you've successfully dual-booted your computer with a bootable USB running Kelpup, you could do the same process with almost any Linux distro!! Here's <a href="https://distrowatch.com/dwres.php?resource=major" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">an overview</a> to help you decide your next distro. You can check out these links for specific resources, but you should be able to just grab an ISO and repeat the same steps (minus disabling BitLocker that is!).
 
@@ -111,3 +106,8 @@ Other distros you could try out:
 * <a href="http://www.slackware.com/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Slackware</a>
 * <a href="https://www.gentoo.org/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Gentoo</a>
 * <a href="https://archlinux.org/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Arch</a>, btw
+
+### Video Instructions
+[![Tutorial for Windows ISO Burning Using Rufus](https://img.youtube.com/vi/36rBh0DTjJ0/0.jpg)](https://www.youtube.com/watch?v=36rBh0DTjJ0)
+
+Click anywhere on the window!
