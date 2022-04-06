@@ -111,3 +111,12 @@ Now that you've successfully dual-booted your computer with a bootable USB runni
 
 If you'd feel more comfortable following directions, Ubuntu super user-friendly distro with a bunch of free apps, and a <a href="https://ubuntu.com/tutorials/create-a-usb-stick-on-macos#1-overview" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">tutorial</a> that's pretty complete. 
 
+Other distros you could try out: 
+<a href="https://linuxmint.com/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Linux Mint</a>
+<a href="https://mxlinux.org/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">MX Linux</a>
+<a href="hhttps://www.opensuse.org/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">openSUSE</a>
+<a href="https://getfedora.org/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Fedora</a>
+<a href="https://www.debian.org/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Debian</a>
+<a href="http://www.slackware.com/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Slackware</a>
+<a href="https://www.gentoo.org/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Gentoo</a>
+<a href="https://archlinux.org/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Arch</a>, btw
