@@ -10,8 +10,10 @@
 - Time!
 ```
 
-### M1 Users
+### Note for M1 Users
 There's a chance that disabling secure boot doesn't work on your Mac- you might have an M1 chip, or a newer Intel chip that has SIP (system integrity protection). If that's the case, you can run a virtual machine using Virtual Box instead! Here is a good <a href="https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">tutorial</a> on how to make a virtual machine on Virtual Box with Ubuntu. Just follow these directions are replace the Ubuntu ISO with the Kelpup ISO you downloaded.
+
+What's an M1? It's a "System on a Chip" that's a CPU and a GPU (central processing unit and a graphics processing unit). Basically, the heart of your laptop. Some Macs have Intel chips, and some Macs have Apple-made M1 chips. Here's an <a href="https://www.laptopmag.com/news/apple-m1-vs-intel-cpu-this-is-the-best-processor-for-your-laptop" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">article</a> about the difference.
 
 ### Step 1 - Download ISO
 We say that you can "burn our ISO" onto a flashdrive, and use that to run our disro on your computer. But what does that really mean? 
@@ -90,8 +92,10 @@ Note: These steps are somewhat dangerous- if you mess around, you could end up f
 ![image-20181128060256-2](https://user-images.githubusercontent.com/65368903/160194400-a378f926-db58-473d-ab2f-37fe43116ca6.png)
 
 6) Hit the red X button on the Startup Security Utility screen, then click the apple on the top left and select Restart. 
-7) While the computer is restarting, hit the [option] key to bring up the boot loader menu. Select your wifi and then click the non-MacOS option- it might be called Windows, but it's really Kelpup. 
-8) While Kelpup is booting, select the default first option for everything. Now you're running Kelpup!!
+7) While the computer is restarting, HOLD DOWN the [option] key until your computer brings up the boot loader menu. Select your wifi and then click the non-MacOS option- it might be called Windows, but it's really Kelpup.
+Note: If it doesn't work the first time and just brings up the MacOS, try, try again! Make sure to hold the [option] key down the entire time the computer is starting.
+
+9) While Kelpup is booting, select the default first option for everything. Now you're running Kelpup!!
 
 When you're done with Kelpup, just hit the power button and turn your computer off. Hit the power button again to turn it back on, and macOS will start automatically. You can save your session if you'd like, but if you got Kelpup to work, we think you should check out dual-booting with Ubuntu off of a USB. It's one of the most used Linux distros in the world, and you might eventually just use on your computer as your main operating system! 
 
