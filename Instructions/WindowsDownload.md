@@ -90,10 +90,14 @@ Choose to enter BIOS Setup, and the following utility page will appear:
 
 Navigate to the "Boot" tab. All of your avalible system devices will be displayed here in the order of their priority. To run Kelpup Linux, you will have to move it such that it is number one in the list. When you have done this, your computer will automatically reboot and run Kelpie Puppy Linux!
 
+When you're done with Kelpup, just hit the power button and turn your computer off. Hit the power button again to turn it back on, and Windows will start automatically. You can save your session if you'd like, but if you got Kelpup to work, we think you should try your hand at a bunch of distros, and decide which one is your favorite! Kelpup isn't designed to be a home base distro, but a stepping stone. 
+
 ### Video Instructions
 [![Tutorial for Windows ISO Burning Using Rufus](https://img.youtube.com/vi/36rBh0DTjJ0/0.jpg)](https://www.youtube.com/watch?v=36rBh0DTjJ0)
 
 Click anywhere on the window!
 
-### Mac Instructions
-Instructions for Mac users can be found <a href="MacDownload.html" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">here</a>.
+### What's Next? 
+Now that you've successfully dual-booted your computer with a bootable USB running Kelpup, you could do the same process with almost any Linux distro!! 
+
+A super functional distro you could use is <a href="https://ubuntu.com/tutorials/create-a-usb-stick-on-windows#1-overview" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Ubuntu</a> - accessible, comes with a bunch of free applications, very user-friendly.
