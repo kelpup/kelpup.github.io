@@ -93,9 +93,14 @@ Note: These steps are somewhat dangerous- if you mess around, you could end up f
 
 6) Hit the red X button on the Startup Security Utility screen, then click the apple on the top left and select Restart. 
 7) While the computer is restarting, HOLD DOWN the [option] key until your computer brings up the boot loader menu. Select your wifi and then click the non-MacOS option- it might be called Windows, but it's really Kelpup.
+
+<img width="145" alt="Screen Shot 2022-04-11 at 1 01 54 PM" src="https://user-images.githubusercontent.com/65368903/162792469-4a6ce5d5-5739-4166-a505-4343b97acd16.png">
+
 Note: If it doesn't work the first time and just brings up the MacOS, try, try again! Make sure to hold the [option] key down the entire time the computer is starting.
 
-9) While Kelpup is booting, select the default first option for everything. Now you're running Kelpup!!
+9) While Kelpup is booting, just hit enter to select the default first option for everything. Now you're running Kelpup!!
+
+<img width="1008" alt="Screen Shot 2022-04-11 at 1 01 37 PM" src="https://user-images.githubusercontent.com/65368903/162792511-d7c5cc0f-91f4-4426-b370-41d05ae9b4d1.png">
 
 When you're done with Kelpup, just hit the power button and turn your computer off. Hit the power button again to turn it back on, and macOS will start automatically. You can save your session if you'd like, but if you got Kelpup to work, we think you should try your hand at a bunch of distros, and decide which one is your favorite! Kelpup isn't designed to be a home base distro, but a stepping stone. 
 
