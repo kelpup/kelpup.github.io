@@ -7,7 +7,7 @@ Kelpup is a woof-built <a href="https://puppylinux.com/" style="color: #b5e853; 
 
 <img src="IMG_5360.jpeg" alt="hi" class="inline"/>
 
-```markdown
+<p align="center">
 |-----------|
 | ANYONE    |
 | CAN       |
@@ -17,7 +17,7 @@ Kelpup is a woof-built <a href="https://puppylinux.com/" style="color: #b5e853; 
 (\__/) ||
 (•ㅅ•) ||
 / 　 づ
-```
+</p>
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_nU8nRAuMK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
