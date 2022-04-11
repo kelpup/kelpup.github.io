@@ -5,30 +5,33 @@ We'd love your help! You could modifiy Kelpup by working on Woof-CE, help us wit
 
 ### Woof-CE
 Contribute to Kelpup itself by modifying the ISO build scripts and the files it uses on <a href="https://github.com/kelpup/woof-CE#contribute" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">woof-CE</a>! The README has good first issues to get started and instructions on how to contribute with GitHub.
-
+```markdown
 |-----------|
 | WOOF-CE   |
 |-----------|
 (\__/) ||
 (•ㅅ•) ||
 / 　 づ
+```
 
 ### Website
 If you find any bugs, typos, or have suggestions on how to improve the website, check out our <a href="https://github.com/kelpup/kelpup.github.io" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">website repository</a>. Either create an issue or a pull request, and we will make sure to check it out!
-
+```markdown
 |-----------|
 | WEBSITE   |
 |-----------|
 (\__/) ||
 (•ㅅ•) ||
 / 　 づ
+```
 
 ### Command Line Games
 Develop some command line games for us! We want users to be able to start learning how to use the terminal right away when they run Kelpup, and we're developing them <a href="https://github.com/kelpup/command-line-games" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">here</a>. Write your own or contribute to what we've started!
-
+```markdown
 |-----------|
 | GAMES     |
 |-----------|
 (\__/) ||
 (•ㅅ•) ||
 / 　 づ
+```
