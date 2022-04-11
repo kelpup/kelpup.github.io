@@ -8,6 +8,7 @@ Kelpup is a woof-built <a href="https://puppylinux.com/" style="color: #b5e853; 
 <img src="IMG_5360.jpeg" alt="hi" class="inline"/>
 
 <p align="center">
+```markdown
 |-----------|
 | ANYONE    |
 | CAN       |
@@ -17,6 +18,7 @@ Kelpup is a woof-built <a href="https://puppylinux.com/" style="color: #b5e853; 
 (\__/) ||
 (•ㅅ•) ||
 / 　 づ
+```
 </p>
 
 <p align="center">
