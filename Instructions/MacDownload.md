@@ -25,7 +25,7 @@ So when you download our ISO file, it is really just a copy of the linux distrib
 Download the lastest release from the <a href="Releases.html" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Downloads</a> page, but don't open it! It's an ISO- it's not meant to be opened like a folder or a file.
 
 ### Step 2 - Format USB
-1) Open Finder, and select the Applications tab from the lefthand side. Then, click on the Utilities foler. 
+1) Open Finder and select the Applications tab from the lefthand side. Then, click on the Utilities foler. 
 
 <img width="115" alt="Screen_Shot_2022-02-21_at_10 41 53_PM" src="https://user-images.githubusercontent.com/65368903/155399733-d08c9905-aa7d-42fe-99d9-4b9870aaff28.png">
 
