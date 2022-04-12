@@ -35,3 +35,14 @@ Develop some command line games for us! We want users to be able to start learni
 (•ㅅ•) ||
 / 　 づ
 ```
+
+### Discord
+If you have any ideas or feedback you would like to share with us, consider joining our Discord server! We would love to hear what you have to say! Click <a href="https://discord.gg/kuksdwRVrG" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">here</a> to join :)
+```markdown
+|-----------|
+| DISCORD   |
+|-----------|
+(\__/) ||
+(•ㅅ•) ||
+/ 　 づ
+```
