@@ -16,7 +16,7 @@ There's a chance that disabling secure boot doesn't work on your Mac- you might 
 What's an M1? It's a "System on a Chip" that's a CPU and a GPU (central processing unit and a graphics processing unit). Basically, the heart of your laptop. Some Macs have Intel chips, and some Macs have Apple-made M1 chips. Here's an <a href="https://www.laptopmag.com/news/apple-m1-vs-intel-cpu-this-is-the-best-processor-for-your-laptop" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">article</a> about the difference.
 
 ### Step 1 - Download ISO
-We say that you can "burn our ISO" onto a flashdrive, and use that to run our disro on your computer. But what does that really mean? 
+We say that you can "burn our ISO" onto a flashdrive, and use that to run our distro on your computer. But what does that really mean? 
 
 > "The idea behind an ISO imge is that you can archive an exact digital copy of a disc, and then later use that image to burn a new disc that's in turn an exact copy of the original (...) most operating systems allow you to mount an ISO image as a virtual disc, in which case all your apps treat it as if a real optical disc were inserted." - (<a href="https://www.howtogeek.com/356714/what-is-an-iso-file-and-how-do-i-open-one/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">source</a>)
 
