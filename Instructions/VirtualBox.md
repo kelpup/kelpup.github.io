@@ -9,9 +9,11 @@
 2) You'll see the file downloaded in your Downloads folder. Double click on it, then follow the directions to install as seen below; double click the package icon.
 
 <img width="666" alt="Screen Shot 2022-04-18 at 3 17 34 PM" src="https://user-images.githubusercontent.com/65368903/163863248-44eceee2-e21b-498f-be07-365b40d843d7.png">
+
 3) Click through the installer.
 
 <img width="612" alt="Screen Shot 2022-04-18 at 3 18 45 PM" src="https://user-images.githubusercontent.com/65368903/163863348-ce470f79-826b-4f25-85cf-eafef67d01a2.png">
+
 4) Go to Finder > Applications > VirtualBox and open the VirtualBox application. Now you're ready to create a new virtual machine and install Kelpup :)
 
 
