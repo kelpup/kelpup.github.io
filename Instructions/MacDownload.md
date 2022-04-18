@@ -11,7 +11,9 @@
 ```
 
 ### Note for M1 Users
-There's a chance that disabling secure boot doesn't work on your Mac- you might have an M1 chip, or a newer Intel chip that has SIP (system integrity protection). If that's the case, you can run a virtual machine using Virtual Box instead! Here is a good <a href="https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">tutorial</a> on how to make a virtual machine on Virtual Box with Ubuntu. Just follow these directions are replace the Ubuntu ISO with the Kelpup ISO you downloaded.
+There's a chance that disabling secure boot doesn't work on your Mac- you might have an M1 chip, or a newer Intel chip that has SIP (system integrity protection). If that's the case, you can run a virtual machine using Virtual Box instead! Check out our <a href="../Instructions/VirtualBox.html" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">tutorial</a>.
+
+Here is a good <a href="https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">tutorial</a> on how to make a virtual machine on Virtual Box with Ubuntu. Just follow these directions are replace the Ubuntu ISO with the Kelpup ISO you downloaded.
 
 What's an M1? It's a "System on a Chip" that's a CPU and a GPU (central processing unit and a graphics processing unit). Basically, the heart of your laptop. Some Macs have Intel chips, and some Macs have Apple-made M1 chips. Here's an <a href="https://www.laptopmag.com/news/apple-m1-vs-intel-cpu-this-is-the-best-processor-for-your-laptop" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">article</a> about the difference.
 
