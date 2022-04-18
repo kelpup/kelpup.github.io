@@ -11,7 +11,9 @@
 ```
 
 ### Windows Surface Users (and potentially others)
-There's a chance that disabling secure boot doesn't work on your Windows Surafce Machine (and maybe other devices). If that's the case, you can run a virtual machine using Virtual Box instead! Here is a good <a href="https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">tutorial</a> on how to make a virtual machine on Virtual Box with Ubuntu. Just follow these directions are replace the Ubuntu ISO with the Kelpup ISO you downloaded.
+There's a chance that disabling secure boot doesn't work on your Windows Surafce Machine (and maybe other devices). If that's the case, you can run a virtual machine using Virtual Box instead! Check out our <a href="../Instructions/VirtualBox.html" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">tutorial</a>.
+
+Or, you can use this <a href="https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Ubuntu tutorial</a> on how to make a virtual machine on Virtual Box with an Ubuntu ISO. Just follow these directions are replace the Ubuntu ISO with the Kelpup ISO you downloaded.
 
 ### Step 1 - Download ISO
 We say that you can "burn our ISO" onto a flashdrive, and use that to run our disro on your computer. But what does that really mean? 
