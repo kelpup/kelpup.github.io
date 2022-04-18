@@ -29,5 +29,8 @@ Step 5: Now, just choose your network and you should be good to go! :)
 
 ### Package Manager (Downloading Stuff)
 ### Multiple Desktops (Pink Thing at Top)
+It might not seem obvious, but you can have multiple desktops on Kelpup :) The three boxes on the top left are the different desktop environments. The pink one is the current desktop, and you can switch between the three by just clicking on them!
+BICTURE BLS
+
 ### Navigating Files without Terminal (but ideally use the terminal :))
 ### More Stuff Later :)
