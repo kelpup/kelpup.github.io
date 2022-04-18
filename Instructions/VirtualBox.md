@@ -2,7 +2,7 @@
 
 # Kelpup on VirtualBox
 
-1) Download VirtualBox from https://www.virtualbox.org/. Click on the download link that matches your operating system.
+1) Download VirtualBox from a <a href="https://www.virtualbox.org/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">here</a>. Click on the download link that matches your operating system.
 
 <img width="324" alt="Screen Shot 2022-04-18 at 3 15 08 PM" src="https://user-images.githubusercontent.com/65368903/163862959-ec93e53b-34cf-441b-8457-9ea9ce6664cf.png">
 
@@ -16,4 +16,4 @@
 
 
 
-If you want you can follow this tutorial instead: https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview it's for Ubuntu but just use the Kelpup ISO isntead :)
+If you want you can follow this <a href="https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">tutorial </a>! It's for Ubuntu but just use the Kelpup ISO isntead :)
