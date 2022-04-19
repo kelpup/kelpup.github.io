@@ -16,4 +16,4 @@
 
 4) Go to Finder > Applications > VirtualBox and open the VirtualBox application. Now you're ready to create a new virtual machine and install Kelpup :)
 
-Then, go ahead and follow this <a href="https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">tutorial </a>! It's for Ubuntu but just use the Kelpup ISO isntead :)
+Then, go ahead and follow this <a href="https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">tutorial</a>! It's for Ubuntu but just use the Kelpup ISO isntead :)
