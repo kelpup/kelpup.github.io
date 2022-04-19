@@ -28,6 +28,13 @@ Step 4: Once you're here, you'll see the enp0s3 button at the bottom right. Do N
 Step 5: Now, just choose your network and you should be good to go! :)
 
 ### Package Manager (Downloading Stuff)
+The PPM (Puppy Package Manager) is quite easy to use!
+
+Step 1: Click on the PPM icon (2nd from the right) and then click on Install Applications
+PICTURE 1
+
+Step 2: TODO
+
 ### Multiple Desktops (Pink Thing at Top)
 It might not seem obvious, but you can have multiple desktops on Kelpup :) The three boxes on the top left are the different desktop environments. The pink one is the current desktop, and you can switch between the three by just clicking on them!
 BICTURE BLS
