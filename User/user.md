@@ -48,3 +48,5 @@ It might not seem obvious, but you can have multiple desktops on Kelpup :) The t
 <img width="357" alt="Screen Shot 2022-04-19 at 7 27 18 PM" src="https://user-images.githubusercontent.com/65368903/164117532-02037896-d7bb-4e90-a4e7-c4a771fb6ce4.png">
 
 ### Navigating Files without Terminal (but ideally use the terminal :))
+Navigating your files without the terminal is very easy! Just click on the Home button on the bottom left, and there you go!
+PICTURE
