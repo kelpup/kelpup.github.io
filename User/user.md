@@ -28,12 +28,16 @@ Step 4: Once you're here, you'll see the enp0s3 button at the bottom right. Do N
 Step 5: Now, just choose your network and you should be good to go! :)
 
 ### Package Manager (Downloading Stuff)
-The PPM (Puppy Package Manager) is quite easy to use!
+The PPM (Puppy Package Manager) is quite easy to use! (NOTE: You will need an internet connection to use it the way explained below)
 
 Step 1: Click on the PPM icon (2nd from the right) and then click on Install Applications
 PICTURE 1
 
-Step 2: TODO
+Step 2: Once you've done that, click on Puppy Package Manager
+PICTURE 2
+
+Step 3: Then, just search for whatever it is you want to install, click the package you want to install, have Auto install be the mode, and click on Do it! It's that easy! (NOTE: Some packages won't download successfully, PPM isn't perfect)
+PICTURE 3
 
 ### Multiple Desktops (Pink Thing at Top)
 It might not seem obvious, but you can have multiple desktops on Kelpup :) The three boxes on the top left are the different desktop environments. The pink one is the current desktop, and you can switch between the three by just clicking on them!
@@ -41,4 +45,3 @@ It might not seem obvious, but you can have multiple desktops on Kelpup :) The t
 <img width="357" alt="Screen Shot 2022-04-19 at 7 27 18 PM" src="https://user-images.githubusercontent.com/65368903/164117532-02037896-d7bb-4e90-a4e7-c4a771fb6ce4.png">
 
 ### Navigating Files without Terminal (but ideally use the terminal :))
-### More Stuff Later :)
