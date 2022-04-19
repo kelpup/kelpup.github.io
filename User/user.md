@@ -3,8 +3,6 @@
 # User Help
 We realize that some things in Kelpup are not as intuitive as they might be in more common Operating Systems such as Windows or MacOS, so we decided to add this page to help clarify some of the more ambiguous elements of Kelpup!
 
-NOTE: This page is currently being worked on! Come back soon for the finalized version :)
-
 ### Connecting to WiFi (Not working for Mac currently)
 Connecting to WiFi is quite easy but not as intuitive as in other operating systems, so here's a quick tutorial on how to do it :)
 
@@ -49,4 +47,5 @@ It might not seem obvious, but you can have multiple desktops on Kelpup :) The t
 
 ### Navigating Files without Terminal (but ideally use the terminal :))
 Navigating your files without the terminal is very easy! Just click on the Home button on the bottom left, and there you go!
-PICTURE
+
+<img width="408" alt="Screen Shot 2022-04-19 at 7 49 11 PM" src="https://user-images.githubusercontent.com/65368903/164119427-92fe4792-415d-4868-bd37-9c2af73a8ae6.png">
