@@ -93,6 +93,8 @@ Note: These steps are somewhat dangerous- if you mess around, you could end up f
 
 ![image-20181128060256-2](https://user-images.githubusercontent.com/65368903/160194400-a378f926-db58-473d-ab2f-37fe43116ca6.png)
 
+Note: if you turn the firmware password off but can't get the other things to happen, that's enough! Try rebooting.
+
 6) Hit the red X button on the Startup Security Utility screen, then click the apple on the top left and select Restart. 
 7) While the computer is restarting, HOLD DOWN the [option] key until your computer brings up the boot loader menu. Select your wifi and then click the non-MacOS option- it might be called Windows, but it's really Kelpup.
 
