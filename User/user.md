@@ -31,13 +31,16 @@ Step 5: Now, just choose your network and you should be good to go! :)
 The PPM (Puppy Package Manager) is quite easy to use! (NOTE: You will need an internet connection to use it the way explained below)
 
 Step 1: Click on the PPM icon (2nd from the right) and then click on Install Applications
-PICTURE 1
+
+<img width="402" alt="Screen Shot 2022-04-19 at 7 43 01 PM" src="https://user-images.githubusercontent.com/65368903/164118773-f08227b8-ff6b-4d47-b740-7bed15b4da37.png">
 
 Step 2: Once you've done that, click on Puppy Package Manager
-PICTURE 2
+
+<img width="319" alt="Screen Shot 2022-04-19 at 7 43 14 PM" src="https://user-images.githubusercontent.com/65368903/164118782-defd1026-443a-41c5-8682-81868f2bf4c4.png">
 
 Step 3: Then, just search for whatever it is you want to install, click the package you want to install, have Auto install be the mode, and click on Do it! It's that easy! (NOTE: Some packages won't download successfully, PPM isn't perfect)
-PICTURE 3
+
+<img width="388" alt="Screen Shot 2022-04-19 at 7 43 22 PM" src="https://user-images.githubusercontent.com/65368903/164118817-c81cc6a1-79f6-4845-a4cf-629125d3d11e.png">
 
 ### Multiple Desktops (Pink Thing at Top)
 It might not seem obvious, but you can have multiple desktops on Kelpup :) The three boxes on the top left are the different desktop environments. The pink one is the current desktop, and you can switch between the three by just clicking on them!
