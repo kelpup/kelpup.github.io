@@ -2,6 +2,21 @@
  
 # Downloads
 
+### Current Release: Kelpup01.1 - 3/31/2022 - <a href="https://github.com/kelpup/woof-CE/releases/download/initial_release/kelpup64-1.0.iso" class="btn">Download</a>
+Included Kernel: 5.4.188
+ISO Size: TODO, also fix the link ;-;
+Checksum: 9febcd573fc31d464331a84893905fa9bdcb17badd3b5fd074f3e96525ca2690
+
+```markdown
+Patch Notes:
+- Updated command line games!
+  - Fixed paths so it will run from anywhere
+  - Expanded content
+- Removed welcome screen to lead right to terminal interface instead of GUI
+```
+
+# History of Kelpup Releases for Download:
+
 ### Kelpup01 - 3/31/2022 - <a href="https://github.com/kelpup/woof-CE/releases/download/initial_release/kelpup64-1.0.iso" class="btn">Download</a>
 
 This is the initial release of Kelpup!
@@ -18,8 +33,6 @@ Release Notes:
 - Comes with Python3
 - Includes self-paced resources and reference sheets for Vim and Python
 ```
-
-# History of Kelpup Releases for Download:
 
 ### BetaKelpup03 - 3/16/2022 - <a href="https://github.com/kelpup/woof-CE/releases/download/kelpup_beta/kelpup64-0.3.iso" class="btn">Download</a>
 
