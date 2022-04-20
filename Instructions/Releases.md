@@ -2,10 +2,10 @@
  
 # Downloads
 
-### Current Release: Kelpup01.1 - 3/31/2022 - <a href="https://github.com/kelpup/woof-CE/releases/download/initial_release/kelpup64-1.0.iso" class="btn">Download</a>
+### Current Release: Kelpup01.1 - 3/31/2022 - <a href="https://github.com/kelpup/woof-CE/releases/download/kelpup1.1/kelpup64-1.1.iso" class="btn">Download</a>
 ```markdown
 Included Kernel: 5.4.188
-ISO Size: TODO, also fix the link ;-;
+ISO Size: 435 MB
 Checksum: 9febcd573fc31d464331a84893905fa9bdcb17badd3b5fd074f3e96525ca2690
 
 Patch Notes:
