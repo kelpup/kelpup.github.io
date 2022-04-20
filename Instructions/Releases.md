@@ -15,6 +15,21 @@ Patch Notes:
 - Removed welcome screen to lead right to terminal interface instead of GUI
 ```
 
+```markdown
+|-----------|
+| CHECK     |
+| OUT       |
+| THE       |
+| CURRENT   |
+| RELEASE-  |
+| IT'S      |
+| ABOVE     |
+|-----------|
+(\__/) ||
+(•ㅅ•) ||
+/ 　 づ
+```
+
 # History of Kelpup Releases for Download:
 
 ### Kelpup01 - 3/31/2022 - <a href="https://github.com/kelpup/woof-CE/releases/download/initial_release/kelpup64-1.0.iso" class="btn">Download</a>
