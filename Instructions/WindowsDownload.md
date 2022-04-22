@@ -11,14 +11,14 @@
 ```
 
 ### Windows Surface Users (and potentially others)
-There's a chance that disabling secure boot doesn't work on your Windows Surafce Machine (and maybe other devices). If that's the case, you can run a virtual machine using Virtual Box instead! Check out our <a href="../Instructions/VirtualBox.html" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">tutorial</a>.
+There's a chance that disabling secure boot doesn't work on your Windows Surface Machine (and maybe other devices). If that's the case, you can run a virtual machine using Virtual Box instead! Check out our <a href="../Instructions/VirtualBox.html" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">tutorial</a>.
 
 Or, you can use this <a href="https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Ubuntu tutorial</a> on how to make a virtual machine on Virtual Box with an Ubuntu ISO. Just follow these directions are replace the Ubuntu ISO with the Kelpup ISO you downloaded.
 
 ### Step 1 - Download ISO
 We say that you can "burn our ISO" onto a flashdrive, and use that to run our disro on your computer. But what does that really mean? 
 
-> "The idea behind an ISO imge is that you can archive an exact digital copy of a disc, and then later use that image to burn a new disc that's in turn an exact copy of the original (...) most operating systems allow you to mount an ISO image as a virtual disc, in which case all your apps treat it as if a real optical disc were inserted." - (<a href="https://www.howtogeek.com/356714/what-is-an-iso-file-and-how-do-i-open-one/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">source</a>)
+> "The idea behind an ISO image is that you can archive an exact digital copy of a disc, and then later use that image to burn a new disc that's in turn an exact copy of the original (...) most operating systems allow you to mount an ISO image as a virtual disc, in which case all your apps treat it as if a real optical disc were inserted." - (<a href="https://www.howtogeek.com/356714/what-is-an-iso-file-and-how-do-i-open-one/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">source</a>)
 
 So when you download our ISO file, it is really just a copy of the linux distribution we have created. By "burning" it onto a flashdrive, you are just making your own portable copy that you can then insert and boot on your own machine.
 
